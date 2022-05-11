@@ -1,0 +1,3531 @@
+UniProt ID,P25660
+Sequence,KNRPTFCNLLPETGRCNALIPAFYYNSHLHKCQKFNYGGCGGNANNFKTIDECQRTCAAKYGRSS
+PDB,1JC6
+Mass,7288.145360000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,120,24243656
+
+UniProt ID,Q1RPT0
+Sequence,RKRHPDCDKPPDTKICQTVVRAFYYKPSAKRCVQFRYGGCNGNGNHFKSDHLCRCECLEYS
+PDB,
+Mass,7122.030459999999
+Mode,blocker
+
+UniProt ID,P00989
+Sequence,RKRHPDCDKPPDTKICQTVVRAFYYKPSAKRCVQFRYGGCNGNGNHFKSDHLCRCECLEYR
+PDB,1BUN
+Mass,7191.139759999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,EC50,flux,mammal,rat,3,2385229
+
+UniProt ID,P00987
+Sequence,RQRHRDCDKPPDKGNCGPVRRAFYYDTRLKTCKAFQYRGCNGNGNHFKTETLCRCECLVYP
+PDB,
+Mass,7182.088959999998
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,,,,,,9693106
+
+UniProt ID,P24330
+Sequence,YKRCHKKGGHCFPKTVICLPPSSDFGKMDCRWRWKCCKKGSVNNAISI
+PDB,
+Mass,5509.481660000001
+Mode,undefined
+
+UniProt ID,P86194
+Sequence,YKQCHKKGGHCFPKEVLICIPPSSDFGKMDCRWKRKCCKKRS
+PDB,
+Mass,4951.87516
+Mode,blocker
+
+UniProt ID,P86193
+Sequence,YKRCHIKGGHCFPKEKLICIPPSSDIGKMDCPWKRKCCKKRS
+PDB,
+Mass,4900.87076
+Mode,blocker
+
+UniProt ID,P63327
+Sequence,YKQCHKKGGHCFPKEKICIPPSSDFGKMDCRWRWKCCKKGSG
+PDB,4GV5
+Mass,4883.71266
+Mode,blocker
+
+UniProt ID,Q9PWF3
+Sequence,YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG
+PDB,"1H5O,1Z99"
+Mass,4883.71266
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,369,22498659
+Kv1.2,IC50,volt,oocyte,rat,386,22498659
+Kv1.3,IC50,volt,oocyte,human,287,22498659
+Kv1.4,IC50,volt,oocyte,rat,>3000,22498659
+Kv1.5,IC50,volt,oocyte,rat,>3000,22498659
+Kv1.6,IC50,volt,oocyte,rat,>3000,22498659
+Kv2.1,IC50,volt,oocyte,rat,>3000,22498659
+Kv3.1,IC50,volt,oocyte,human,>3000,22498659
+Kv4.2,IC50,volt,oocyte,rat,>3000,22498659
+Kv4.3,IC50,volt,oocyte,rat,>3000,22498659
+Kv11.1,IC50,volt,oocyte,human,>3000,22498659
+Shaker-IR,IC50,volt,oocyte,fly,>3000,22498659
+
+UniProt ID,P12029
+Sequence,YKRCHKKGGHCFPKEKICTPPSSDFGKMDCRWKWKCCKKGSVN
+PDB,
+Mass,5027.88626
+Mode,undefined
+
+UniProt ID,P12028
+Sequence,YKRCHKKEGHCFPKTVICLPPSSDFGKMDCRWKWKCCKKGSVN
+PDB,
+Mass,5054.95226
+Mode,undefined
+
+UniProt ID,P01477
+Sequence,YKRCHKKGGHCFPKTVICLPPSSDFGKMDCRWKWKCCKKGSVNNAISI
+PDB,
+Mass,5481.4682600000015
+Mode,undefined
+
+UniProt ID,P63176
+Sequence,YKRCHKKGGHCFPKTVICLPPSSDFGKMDCRWKWKCCKKGSVNNA
+PDB,
+Mass,5168.071260000001
+Mode,undefined
+
+UniProt ID,P63175
+Sequence,YKRCHKKEGHCFPKTVICLPPSSDFGKMDCRWKWKCCKKGSVNNA
+PDB,
+Mass,5240.13486
+Mode,undefined
+
+UniProt ID,P01476
+Sequence,YKQCHKKGGHCFPKEKICIPPSSDLGKMDCRWKWKCCKKGSG
+PDB,
+Mass,4821.682060000001
+Mode,undefined
+
+UniProt ID,P0DMJ6
+Sequence,LQHRTFCKLPAEPGPCKASIPAFYYNWAAKKCQLFHYGGCKGNANRFSTIEKCRRACVG
+PDB,
+Mass,6632.656260000002
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,300,11240130
+Kir2.1,IC50,volt,oocyte,,>500,11240130
+
+UniProt ID,P00982
+Sequence,AAKYCKLPVRYGPCKKKIPSFYYKWKAKQCLPFDYSGCGGNANRFKTIEECRRTCVG
+PDB,
+Mass,6567.66266
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,volt,oocyte,fly,>100,9778362
+Kv1.1,Kd,volt,oocyte,rat,"0,1",9778362
+Kv1.1,EC50,patch,mammal,mouse,"1,8",9134213
+Kv1.6,Kd,volt,oocyte,rat,23,9778362
+Kir1.1,Kd,volt,oocyte,rat,152,9778362
+Kir2.1,Kd,volt,oocyte,mouse,>100,9778362
+
+UniProt ID,P00980
+Sequence,QPRRKLCILHRNPGRCYDKIPAFYYNQKKKQCERFDWSGCGGNSNRFKTIEECRRTCIG
+PDB,1DTX
+Mass,7048.023059999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,"1,1",7559595
+Kv1.1,EC50,patch,mammal,mouse,"9,4",9134213
+Kv1.2,EC50,volt,oocyte,rat,"0,38",1921987
+Kv1.3,EC50,volt,oocyte,rat,>100,1921987
+Kv1.4,IC50,volt,oocyte,rat,>200,2555158
+Kv1.5,IC50,volt,oocyte,rat,>200,2361015
+Kv1.6,IC50,volt,oocyte,rat,9,2361015
+Kv3.1,IC50,patch,oocyte,rat,>100,1378392
+Kv3.2,IC50,patch,oocyte,rat,>100,1378392
+Kv3.4,IC50,patch,oocyte,rat,>100,1378392
+Kv4.2,IC50,volt,oocyte,rat,>300,1722463
+Kir1.1,Kd,volt,oocyte,rat,>150,9778362
+
+UniProt ID,C0HJT4
+Sequence,LECHRRGSFISDGKITCSAKKTFCCKMYEKIFGIYWYGCAKTYTEKNTWNVYSKCCTTNLCNT
+PDB,
+Mass,7335.411479999999
+Mode,undefined
+
+UniProt ID,A0A1Z0YU59
+Sequence,RPSFCNLPVKPGPCNGFFSAFYYSQKTNKCHSFTYGGCKGNANRFSTIEKCRRTCVG
+PDB,5M4V
+Mass,6371.199559999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,8200,201620454
+Kv1.2,IC50,volt,oocyte,,>10000,201620454
+Kv1.3,IC50,volt,oocyte,,>10000,201620454
+Kv1.4,IC50,volt,oocyte,,>10000,201620454
+Kv1.5,IC50,volt,oocyte,,>10000,201620454
+Kv1.6,IC50,volt,oocyte,,>10000,201620454
+Kv3.1,IC50,volt,oocyte,,>10000,201620454
+Kv11.1,IC50,volt,oocyte,,>10000,201620454
+Shaker-IR,IC50,volt,oocyte,,>10000,201620454
+
+UniProt ID,P00984
+Sequence,LQHRTFCKLPAEPGPCKASIPAFYYNWAAKKCQLFHYGGCKGNANRFSTIEKCRHACVG
+PDB,
+Mass,6613.609860000001
+Mode,blocker
+
+UniProt ID,P00983
+Sequence,RPYACELIVAAGPCMFFISAFYYSKGANKCYPFTYSGCRGNANRFKTIEECRRTCVV
+PDB,
+Mass,6469.443059999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,,flux,mammal,rat,3/80,1304870
+
+UniProt ID,P00981
+Sequence,AAKYCKLPLRIGPCKRKIPSFYYKWKAKQCLPFDYSGCGGNANRFKTIEECRRTCVG
+PDB,1DTK
+Mass,6559.68626
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,Ki,radio,mammal,rat,"0,29",10429207
+Kv1.1,IC50,volt,oocyte,,"2,5",8612784
+Kv1.1,EC50,patch,mammal,mouse,"0,03",9134213
+Kv1.2,IC50,volt,oocyte,,>3,8612784
+Kv1.6,IC50,volt,oocyte,,>3,8612784
+
+UniProt ID,P00979
+Sequence,QPLRKLCILHRNPGRCYQKIPAFYYNQKKKQCEGFTWSGCGGNSNRFKTIEECRRTCIRK
+PDB,"1DEM,1DEN"
+Mass,7149.257659999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,mouse,"3,1",7816560
+Kv1.1,EC50,patch,mammal,mouse,"7,4",9134213
+Kv1.2,IC50,volt,oocyte,mouse,"0,13",7816560
+Kv1.3,IC50,volt,oocyte,mouse,4533,8120633
+Kv1.3,,patch,mammal,human,>100,8505626
+Kv1.4,IC50,volt,oocyte,human,>1000,9618407
+Kv1.6,IC50,volt,oocyte,rat,10/26,8612784
+Kv4.2,IC50,volt,oocyte,rat,>300,1722463
+
+UniProt ID,P0DKU1
+Sequence,SLLQFRKMIKKMTGKEPVVSYAFYGCYCGSGGRGKPKDATDRCCFVHQCCYEKVTGCDPKWDDYTYSWKDGDIVCGGDDPCKKEVCECDRAAAICFRDNLKTYKKIYMAYPDIFCSSKSEKC
+PDB,
+Mass,13881.861139999999
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,patch,mammal,rat,"20000/54,25",19277489
+
+UniProt ID,Q7T1K6
+Sequence,NVDFNSESTRRKKKQKEIVDLHNSLRRRVSPTASNMLKMEWYPEAASNAERWANTCSLNHSPDNLRVLEGIQCGESIYMSSNARTWTEIIHLWHDEYKNFVYGVGANPPGSVTGHYTQIVWYQTYRAGCAVSYCPSSAWSYFYVCQYCPSGNFQGKTATPYKLGPPCGDCPSACDNGLCTNPCTIYNKLTNCDSLLKQSSCQDDWIKSNCPASCFCRNKII
+PDB,"1XTA,1XX5,2GIZ,3MZ8"
+Mass,24937.88636000002
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,,patch,mammal,,200/46,17070778
+KCa1.1,IC50,patch,mammal,mouse,"34,4",16042391
+
+UniProt ID,A4FS04
+Sequence,NLYQFKNMIQCTVPSRSWWDFADYGCYCGKGGSGTPVDDLDRCCQVHDNCYNEAEKISGCWPYFKTYSYECSQGTLTCKGGNNACAAAVCDCDRLAAICFAGAPYTDANYNIDLKARCQ
+PDB,2OSH
+Mass,13173.571739999998
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,patch,mammal,rat,10000/57,18247353
+
+UniProt ID,P84805
+Sequence,NVDFNSESTRRKKKQKEIVDLHNSLRRRVSPTASNMLKMEWYPEAASNAERWANTCSLNHSPDNLRVLEGIQCGESIYMSSNARTWTEIIHLWHDEYKNFVYGVGANPPGSVTGHYTQIVWYQTYRAGCAVSYCPSSAWSYFYVCQYCPSGNFQGKTATPYKLGPPCGDCPSACDNGLCTNPCTIYNKLTNCDSLLKQGSCQDDWIKSNCPASCFCRNKII
+PDB,
+Mass,24907.860060000017
+Mode,undefined
+
+UniProt ID,B7S4N9
+Sequence,KDRPKFCHLPPKPGPCRAAIPRFYYNPHSKQCEKFIYGGCHGNANSFKTPDECNYTCLGVSL
+PDB,
+Mass,6997.952759999998
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa2,,,,,,9242659
+
+UniProt ID,P0C8R1
+Sequence,GVEINVKCTGSHQCIKPCKDAGMRFGKCINRKCHCTPK
+PDB,
+Mass,4185.12014
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,>750,18804453
+Kv1.2,IC50,volt,oocyte,rat,10.4,18804453
+Kv1.3,IC50,volt,oocyte,rat,1.1,18804453
+
+UniProt ID,Q5K0E0
+Sequence,QVQTNKKCKGGSCASVCAKEIGVAAGKCINGRCVCYP
+PDB,
+Mass,3751.5404399999998
+Mode,blocker
+
+UniProt ID,P45696
+Sequence,VRIPVSCKHSGQCLKPCKDAGMRFGKCMNGKCDCTPK
+PDB,
+Mass,4021.95604
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,0.05,7806508
+KCa1.1,Kd,radio,snail,snail,1560,7806508
+
+UniProt ID,P60233
+Sequence,QNETNKKCQGGSCASVCRRVIGVAAGKCINGRCVCYP
+PDB,
+Mass,3850.59224
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,patch,oocyte,fly,4500,9446786
+Kv11.1,IC50,volt,oocyte,human,600/25,18687312
+
+UniProt ID,P69939
+Sequence,KLVKYAVPVGTLRTILQTVVHKVGKTQFGCPAYQGYCDDHCQDIKKEEGFCHGFKCKCGIPMGF
+PDB,
+Mass,7117.48534
+Mode,blocker
+
+UniProt ID,P24662
+Sequence,GVEINVKCSGSPQCLKPCKDAGMRFGKCMNRKCHCTPK
+PDB,"1KTX,1XSW,2KTX,2UVS,3ODV"
+Mass,4150.10204
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,1.1,20007782
+Kv1.2,Kd,volt,oocyte,rat,20,20007782
+Kv1.3,Kd,volt,oocyte,human,0.1,20007782
+KCa1.1,Kd,volt,oocyte,mouse,1560,20007782
+
+UniProt ID,P31719
+Sequence,TVCNLRRCQLSCRSLGLLGKCIGVKCECVKH
+PDB,1PNH
+Mass,3415.2871400000004
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa2.2,Kd,patch,mammal,human,22,11527975
+KCa2.3,Kd,patch,mammal,human,25,11527975
+
+UniProt ID,P56215
+Sequence,VSCEDCPEHCSTQKAQAKCDNDKCVCEPI
+PDB,1ACW
+Mass,3178.6578400000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa2,Kd,radio,mammal,rat,100,8985784
+KCa2.2,Kd,patch,mammal,human,>1000,11527975
+KCa2.3,Kd,patch,mammal,human,>1000,11527975
+
+UniProt ID,P60208
+Sequence,QIETNKKCQGGSCASVCRKVIGVAAGKCINGRCVCYP
+PDB,
+Mass,3821.63444
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,IC50,volt,oocyte,human,7900,18687312
+
+UniProt ID,P0C166
+Sequence,QKECTGPQHCTNFCRKNKCTHGKCMNRKCKCFNCK
+PDB,
+Mass,4081.9929400000015
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,mammal,fly,"10/20,0",15615696
+Kv1.1,Kd,patch,mammal,mouse,>10,15615696
+Kv1.2,Kd,patch,mammal,human,6.14,15615696
+Kv1.3,Kd,patch,mammal,human,0.73,15615696
+Kv2.1,Kd,patch,mammal,rat,"10/20,0",15615696
+KCa3.1,Kd,patch,mammal,human,>10,15615696
+
+UniProt ID,P0C908
+Sequence,GVPINVKCRGSRDCLDPCKKAGMRFGKCINSKCHCTP
+PDB,
+Mass,4017.90934
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,3.5,17490656
+Kv1.1,IC50,volt,oocyte,rat,550/50,17490656
+Kv1.3,IC50,volt,oocyte,human,550/50,17490656
+
+UniProt ID,B8XH42
+Sequence,GLIDVRCYASRECWEPCRRVTGSAQAKCQNNQCRCY
+PDB,
+Mass,4162.838339999999
+Mode,blocker
+
+UniProt ID,P59290
+Sequence,VGIPVSCKHSGQCIKPCKDAGMRFGKCMNRKCDCTPK
+PDB,
+Mass,4021.956040000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,0.05,10669015
+
+UniProt ID,P84744
+Sequence,VGCEECPMHCKGKHAVPTCDDGVCNCNV
+PDB,
+Mass,2942.49734
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,145,15165720
+Kv1.2,IC50,volt,oocyte,rat,2.5,15165720
+Kv1.3,IC50,volt,oocyte,rat,15,15165720
+
+UniProt ID,C0HJQ2
+Sequence,AACYSSDCRVKCRAMGFSSGKCIDSKCKCYK
+PDB,
+Mass,3394.106940000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,1000/100,26398235
+Kv1.2,IC50,volt,oocyte,rat,1000/100,26398235
+Kv1.3,IC50,volt,oocyte,human,1000/100,26398235
+Kv1.4,IC50,volt,oocyte,rat,>1000,26398235
+Kv1.6,IC50,volt,oocyte,rat,75.9,26398235
+Kv2.1,IC50,volt,oocyte,rat,>1000,26398235
+Shaker-IR,IC50,volt,oocyte,fly,1000/65,26398235
+
+UniProt ID,P0DL62
+Sequence,AGSMDSCSETGVCMKACSERIRQVENDNKCPAGECICTT
+PDB,
+Mass,4122.746639999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,,volt,oocyte,rat,1000/32,26079392
+Kv1.2,,volt,oocyte,rat,1000/100,26079392
+Kv1.3,,volt,oocyte,human,1000/83,26079392
+Kv1.4,,volt,oocyte,rat,>1000,26079392
+Kv1.6,,volt,oocyte,rat,1000/21,26079392
+Shaker-IR,,volt,oocyte,fly,1000/100,26079392
+
+UniProt ID,P0DL44
+Sequence,GVPINVKCSGSRDCLEPCKKAGMRFGKCINRKCHCTPK
+PDB,
+Mass,4160.11034
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,0.1,23523531
+
+UniProt ID,P0DL45
+Sequence,GLIDVKCYASRECWEPCRKVTGSGQAKCQNNQCRCY
+PDB,
+Mass,4092.7846400000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,>100,23523531
+
+UniProt ID,P0DL46
+Sequence,GLIDVRCYASRECWEPCRKVTGSGQAKCQNNQCRCY
+PDB,
+Mass,4120.79804
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,>100,23523531
+
+UniProt ID,P0C161
+Sequence,TVINVKCTSPKQCLKPCKDLYGPHAGAKCMNGKCKCYNN
+PDB,
+Mass,4254.17394
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,Kd,patch,mammal,human,0.7,16026809
+
+UniProt ID,P0C162
+Sequence,TIINVKCTSPKQCLKPCKDLYGPHAGAKCMNGKCKCYNN
+PDB,
+Mass,4267.216039999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,Kd,patch,mammal,human,0.25,16026809
+
+UniProt ID,P0C163
+Sequence,IFINVKCSLPQQCLRPCKDRFGQHAGGKCINGKCKCYP
+PDB,
+Mass,4249.18824
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,Kd,patch,mammal,human,366,16026809
+
+UniProt ID,P0C164
+Sequence,TIINVKCTSPKQCLLPCKEIYGIHAGAKCMNGKCKCYKI
+PDB,
+Mass,4295.396839999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,Kd,patch,mammal,human,0.98,16026809
+
+UniProt ID,P0C165
+Sequence,TIINVKCTSPKQCLPPCKEIYGRHAGAKCMNGKCHCSKI
+PDB,
+Mass,4255.251439999998
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,Kd,patch,mammal,human,69,16026809
+
+UniProt ID,P0C892
+Sequence,DRDSCVDKSRCSKYGYYQECQDCCKKAGHNGGTCMFFKCKCA
+PDB,
+Mass,4760.55514
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,Kd,patch,mammal,human,12.8,18338253
+Kv11.2,Kd,patch,mammal,human,>210,18338253
+Kv11.3,Kd,patch,mammal,human,0.88,18338253
+
+UniProt ID,P0C893
+Sequence,DRDSCIDKSRCSKYGYYQECQDCCKKAGHNGGTCMFFKCKCA
+PDB,
+Mass,4774.58194
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,Kd,patch,mammal,human,200/90,18338253
+Kv11.2,Kd,patch,mammal,human,>200,18338253
+Kv11.3,Kd,patch,mammal,human,200/100,18338253
+
+UniProt ID,P59847
+Sequence,TVIDVKCTSPKQCLPPCKAQFGIRAGAKCMNGKCKCYPH
+PDB,1HLY
+Mass,4220.202740000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,flux,mammal,,0.031,9446567
+Kv1.2,IC50,flux,mammal,,0.17,9446567
+Kv1.3,IC50,flux,mammal,,0.086,9446567
+Kv1.6,IC50,flux,mammal,,6,9446567
+
+UniProt ID,P0DL70
+Sequence,TTINVKCTSPKQCLPPCKEIYGRHAGAKCINGKCHCSKI
+PDB,
+Mass,4225.163939999999
+Mode,blocker
+
+UniProt ID,P45629
+Sequence,ITINVKCTSPQQCLRPCKDRFGQHAGGKCINGKCKCYP
+PDB,
+Mass,4191.06244
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,Ki,radio,mammal,rat,0.1,7998956
+
+UniProt ID,P45630
+Sequence,TVIDVKCTSPKQCLPPCKEIYGRHAGAKCMNGKCKC
+PDB,
+Mass,3905.8154400000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,Ki,radio,mammal,rat,0.1,7998956
+
+UniProt ID,Q86QV0
+Sequence,DRDSCVDKSRCSKYGYYQECQDCCKKAGHNGGTCMFFKCKCA
+PDB,
+Mass,4760.55514
+Mode,blocker
+
+UniProt ID,Q86QU9
+Sequence,DRDSCVDKSKCSKYGYYGQCDECCKKAGDRAGNCVYFKCKCNP
+PDB,
+Mass,4832.60084
+Mode,blocker
+
+UniProt ID,P40755
+Sequence,TIINVKCTSPKQCLPPCKAQFGQSAGAKCMNGKCKCYPH
+PDB,1MTX
+Mass,4179.10674
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,,,fly,160,10.1023/A:1017062613503
+Kv1.1,IC50,flux,mammal,,0.144,9446567
+Kv1.1,Kd,patch,mammal,human,4.2,24878374
+Kv1.2,IC50,flux,mammal,,0.675,9446567
+Kv1.2,Kd,patch,mammal,human,0.006,24878374
+Kv1.3,IC50,flux,mammal,,0.23,9446567
+Kv1.3,Kd,patch,mammal,human,0.011,24878374
+
+UniProt ID,C0HLM3
+Sequence,DRDSCVDKSRCAKYGYFQECTDCCKKYGHNGGTCMFFKCKCA
+PDB,
+Mass,4793.395579999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,IC50,patch,mammal,human,3.4,34201318
+
+UniProt ID,P0C182
+Sequence,TFIDVDCTVSKECWAPCKAAFGVDRGKCMGKKCKCYV
+PDB,
+Mass,4085.97524
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa1.1,Kd,volt,oocyte,human,1.5,11576530
+
+UniProt ID,P08815
+Sequence,TIINVKCTSPKQCSKPCKELYGSSAGAKCMNGKCKCYNN
+PDB,1SXM
+Mass,4195.060339999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,,,fly,160,10.1023/A:1017062613503
+Kv1.1,Kd,patch,mammal,mouse,>25,7517498
+Kv1.2,Kd,patch,mammal,rat,2,7517498
+Kv1.3,Kd,patch,mammal,mouse,1,7517498
+Kv1.5,Kd,patch,mammal,human,>25,7517498
+KCa1.1,Kd,,,rat,450,10.1023/A:1017062613503
+KCa3.1,Kd,patch,mammal,mouse,>25,7517498
+
+UniProt ID,Q9TXD1
+Sequence,TIINEKCFATSQCWTPCKKAIGSLQSKCMNGKCKCYNG
+PDB,
+Mass,4183.048640000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,Ki,radio,mammal,rat,100,8875778
+
+UniProt ID,O46028
+Sequence,AVCVYRTCDKDCKRRGYRSGKCINNACKCYPY
+PDB,1PJV
+Mass,3731.47634
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,700,9688256
+Kv1,Ki,radio,mammal,rat,0.109,9688256
+Kv1.1,Kd,patch,mammal,mouse,24400,14498829
+Kv1.2,Kd,patch,mammal,rat,27,14498829
+Kv1.3,Kd,patch,mammal,mouse,5300,14498829
+KCa2,IC50,radio,mammal,rat,7200,14498829
+KCa3.1,Kd,patch,mammal,human,484,14498829
+
+UniProt ID,P58504
+Sequence,VACVYRTCDKDCTSRKYRSGKCINNACKCYPY
+PDB,
+Mass,3707.4049400000004
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,4100,9688256
+Kv1,Ki,radio,mammal,rat,0.087,9688256
+Kv1.1,Kd,patch,oocyte,mouse,1000,9688256
+
+UniProt ID,Q86QT3
+Sequence,DRDSCVDKSRCAKYGYYQECQDCCKNAGHNGGTCMFFKCKCA
+PDB,"1NE5,1PX9"
+Mass,4730.4854399999995
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,Kd,patch,mammal,human,4.5,16497878
+Kv11.2,Kd,patch,mammal,human,>210,16497878
+Kv11.3,Kd,patch,mammal,human,4.05,16497878
+
+UniProt ID,P59939
+Sequence,GRDSCVNKSRCAKYGYYSQCEVCCKKAGHKGGTCDFFKCKCKV
+PDB,
+Mass,4782.71994
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11,IC50,patch,mammal,rat,418,11978818
+
+UniProt ID,P59940
+Sequence,ERDSCVEKSKCGKYGYYGQCDECCKKAGDRAGTCVYYKCKCNP
+PDB,
+Mass,4833.62904
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11,IC50,volt,mammal,mouse,231.7,12076661
+
+UniProt ID,P85529
+Sequence,IFINVKCSSPQQCLKPCKAAFGISAGGKCINGKCKCYP
+PDB,
+Mass,4000.9409400000004
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,mammal,mouse,>10,18786511
+Kv1.2,IC50,volt,mammal,human,1.3,18786511
+Kv1.3,IC50,volt,mammal,human,7.2,18786511
+Kv1.4,IC50,volt,mammal,human,>10,18786511
+Kv1.5,IC50,volt,mammal,human,>10,18786511
+Kv2.1,IC50,volt,mammal,rat,>10,18786511
+Kv11.1,IC50,volt,mammal,human,>10,18786511
+KCa1.1,IC50,volt,mammal,human,>10,18786511
+KCa3.1,IC50,volt,mammal,human,>10,18786511
+
+UniProt ID,C0HJW1
+Sequence,IFINVKCSSPQQCLKPCKKAFGQHAGGKCINGKCKCYP
+PDB,
+Mass,4123.0704399999995
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,mammal,human,>10,26921461
+Kv1.2,IC50,volt,mammal,human,0.3,26921461
+Kv1.3,IC50,volt,mammal,human,8.3,26921461
+KCa3.1,IC50,volt,mammal,human,6.4,26921461
+Shaker-IR,IC50,volt,mammal,fly,22,26921461
+
+UniProt ID,C0HJW6
+Sequence,TIINVKCTSPKQCLKPCKDLYGPHAGEKCMNGKCKCYKI
+PDB,
+Mass,4339.363339999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,mammal,human,>10,26921461
+Kv1.2,IC50,volt,mammal,human,0.7,26921461
+Kv1.3,IC50,volt,mammal,human,26.2,26921461
+KCa3.1,IC50,volt,mammal,human,~56,26921461
+Shaker-IR,IC50,volt,mammal,fly,>10,26921461
+
+UniProt ID,C0HJW5
+Sequence,TIINVKCTSPKQCLLPCKQIYGPHAGAKCMNGKCHCSKI
+PDB,
+Mass,4212.223239999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,mammal,human,4.8,26921461
+Kv1.2,IC50,volt,mammal,human,2.9,26921461
+Kv1.3,IC50,volt,mammal,human,>10,26921461
+KCa3.1,IC50,volt,mammal,human,>10,26921461
+Shaker-IR,IC50,volt,mammal,fly,>10,26921461
+
+UniProt ID,P0DUI4
+Sequence,TTINVKCTSPKQCLKPCKDLYGPHAGAKCMNGKCKCYNN
+PDB,
+Mass,4254.97586
+Mode,blocker
+
+UniProt ID,C0HJW2
+Sequence,AVCVYRTCDKDCKRRGYRSGKCINNACKCYPYA
+PDB,
+Mass,3803.53984
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,mammal,human,>10,26921461
+Kv1.2,IC50,volt,mammal,human,3.6,26921461
+Kv1.3,IC50,volt,mammal,human,~72,26921461
+KCa3.1,IC50,volt,mammal,human,>10,26921461
+Shaker-IR,IC50,volt,mammal,fly,>10,26921461
+
+UniProt ID,C0HJW3
+Sequence,DRDSCIDKSRCSKYGYYQECQDCCKKAGHNRGTCMFFKCKCA
+PDB,
+Mass,4873.71754
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,mammal,human,>10,26921461
+Kv1.2,IC50,volt,mammal,human,>10,26921461
+Kv1.3,IC50,volt,mammal,human,>10,26921461
+Kv10.1,IC50,volt,mammal,human,>10,26921461
+Kv11.1,IC50,volt,mammal,human,16.9,26921461
+KCa3.1,IC50,volt,mammal,human,>10,26921461
+Shaker-IR,IC50,volt,mammal,fly,>10,26921461
+
+UniProt ID,P0DJO5
+Sequence,QIHTNQPCTSNNTRCRTYCIKVHKINSGKCMNSKCVCHP
+PDB,
+Mass,4443.267239999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,,1000/7,22580271
+Kv1.2,IC50,patch,mammal,,1000/22,22580271
+Kv1.3,IC50,patch,mammal,,0.49,22580271
+Kv11.1,IC50,patch,mammal,human,10000/19,22580271
+KCa2.3,IC50,patch,mammal,,1000/11,22580271
+
+UniProt ID,P0DL47
+Sequence,GLINEKKVQQYLDEKLPNGVVKGALKSLVHKAAKNQNLCAFNVDTVGMCDADCKRQGKAKGVCHGTKCKCDVELSYKK
+PDB,
+Mass,8503.868959999998
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,>1000,23262394
+Kv1.2,IC50,patch,mammal,human,>1000,23262394
+Kv1.3,IC50,patch,mammal,mouse,950,23262394
+
+UniProt ID,P85528
+Sequence,IKCTLSKDCYSPCKKETGCPRAKCINRNCKCYGCS
+PDB,
+Mass,3897.770340000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,16,18699777
+Kv1.1,IC50,volt,oocyte,rat,13,18699777
+Kv1.2,IC50,volt,oocyte,rat,16,18699777
+Kv1.3,IC50,volt,oocyte,rat,2,18699777
+
+UniProt ID,P82850
+Sequence,GHACYRNCWREGNDEETCKERC
+PDB,1HP9
+Mass,2654.9597400000002
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,>40000,12034709
+Kv1.2,Kd,volt,oocyte,rat,150000,12034709
+Kv1.3,Kd,volt,oocyte,human,40000,12034709
+
+UniProt ID,P82851
+Sequence,GHACYRNCWREGNDEETCKERCG
+PDB,
+Mass,2712.99634
+Mode,blocker
+
+UniProt ID,C0HJN0
+Sequence,ISCTGSKQCYDPCKKKTGCPNAKCMNKSCXCYGC
+PDB,
+Mass,3670.8
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KcsA-Kv1.3,IC50,,,human,480,24189292
+KcsA-Kv1.1,IC50,,,human,6700,24189292
+
+UniProt ID,P0C2F4
+Sequence,GWINEEKIQKKIDEKIGNNILGGMAKAVVHKLAKGEFQCVANIDTMGNCETHCQKTSGEKGFCHGTKCKCGKPLSY
+PDB,
+Mass,8292.721339999998
+Mode,blocker
+
+UniProt ID,P0DJ41
+Sequence,SCKKECSGSRRTKKCMQKCNREHGH
+PDB,
+Mass,2917.46374
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,EC50,patch,mammal,rat,9900,22305749
+Kv1.2,EC50,patch,mammal,rat,"30000/4,8",22305749
+Kv1.3,EC50,volt,oocyte,human,"30000/20,4",22305749
+Kv1.4,EC50,patch,mammal,rat,"30000/12,9",22305749
+Kv1.5,EC50,patch,mammal,rat,"30000/1,4",22305749
+Kv1.6,EC50,patch,mammal,rat,"30000/59,8",22305749
+Kv1.8,EC50,patch,mammal,rat,"30000/2,7",22305749
+Kv2.1,EC50,patch,mammal,human,30000/4,22305749
+Kv3.1,EC50,patch,mammal,mouse,"30000/3,7",22305749
+Kv4.2,EC50,patch,mammal,rat,30000/2,22305749
+KCa2.3,EC50,patch,mammal,human,30000/2,22305749
+KCa3.1,EC50,patch,mammal,human,30000/3,22305749
+
+UniProt ID,P0DJ34
+Sequence,GNACIEVCLQHTGNPAECDKACD
+PDB,
+Mass,2387.7067400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv7.1,IC50,patch,mammal,mouse,10000/18,22511981
+
+UniProt ID,P0DJ35
+Sequence,GNACIEVCLQHTGNPAECDKPCDK
+PDB,
+Mass,2541.918740000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/35,22511981
+Kv7.1,IC50,patch,mammal,mouse,10000/45,22511981
+KCa1.1,IC50,patch,mammal,mouse,600/15,22511981
+KCa2.3,IC50,patch,mammal,mouse,1000/5,22511981
+
+UniProt ID,P59867
+Sequence,ASCRTPKDCADPCRKETGCPYGKCMNRKCKCNRC
+PDB,"1QUZ,1WPD,1Y2P"
+Mass,3818.652640000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,0.001,9359871
+Kv1.1,IC50,patch,mammal,mouse,7,15498765
+Kv1.2,IC50,patch,mammal,rat,>100,15498765
+Kv1.3,IC50,volt,oocyte,rat,0.012,9359871
+Kv1.4,IC51,patch,mammal,human,>100,16247791
+Kv1.5,IC52,patch,mammal,human,>100,16247791
+Kv11.1,IC50,volt,oocyte,human,5000/35,18687312
+KCa1.1,IC50,patch,mammal,human,>100,16247791
+KCa2,IC50,radio,mammal,rat,>1000,9359871
+KCa2.2,IC50,patch,mammal,rat,>100,16247791
+KCa3.1,IC50,patch,mammal,human,625,15498765
+
+UniProt ID,P84094
+Sequence,IRCSGSRDCYSPCMKQTGCPNAKCINKSCKCYGC
+PDB,1V56
+Mass,3700.510840000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,IC50,volt,oocyte,human,>5000,18687312
+
+UniProt ID,P83655
+Sequence,GFGCYRSCWKAGHDEETCKKECS
+PDB,
+Mass,2620.9794400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,>1000000,15670585
+Kv1.2,Kd,volt,oocyte,rat,>1000000,15670585
+Kv1.3,Kd,volt,oocyte,human,>1000000,15670585
+
+UniProt ID,P84864
+Sequence,TGTSCISPKQCTEPCRAKGCKHGKCMNRKCHCMLCL
+PDB,
+Mass,3949.9287400000007
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,52,17030052
+
+UniProt ID,Q0GY41
+Sequence,KSTVGQKLKKKLNQAVDKVKEVLNKSEYMCPVVSSFCKQHCARLGKSGQCDLLECICS
+PDB,
+Mass,6426.724439999998
+Mode,blocker
+
+UniProt ID,Q0GY40
+Sequence,GWMSEKKVQGILDKKLPEGIIRNAAKAIVHKMAKNQFGCFANVDVKGDCKRHCKAEDKEGICHGTKCKCGVPISYL
+PDB,"5IPO,5JYH"
+Mass,8368.99874
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,185,18030427
+
+UniProt ID,P0C8W3
+Sequence,GHHNRVNCLLPPKTGPCKGSFARYYFDIETGSCKAFIYGGCEGNSNNFSEKHHCEKRCRGFRKFGGK
+PDB,
+Mass,7538.637540000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,1000/45,22354971
+Kv1.2,IC50,patch,mammal,human,1000/50,22354971
+Kv1.3,IC50,patch,mammal,mouse,6.2,22354971
+KCa1.1,IC50,patch,mammal,mouse,>1000,22354971
+KCa2.3,IC50,patch,mammal,human,1000/20,22354971
+
+UniProt ID,P83405
+Sequence,VGCEECPAHCKGKNAKPTCDDGVCNCNV
+PDB,
+Mass,2889.37244
+Mode,blocker
+
+UniProt ID,P83406
+Sequence,VGCEECPAHCKGKNAIPTCDDGVCNCNV
+PDB,
+Mass,2874.35774
+Mode,blocker
+
+UniProt ID,P59886
+Sequence,GVPINVKCRGSPQCIQPCRDAGMRFGKCMNGKCHCTPQ
+PDB,
+Mass,4115.98824
+Mode,blocker
+
+UniProt ID,P15230
+Sequence,VGCEEDPMHCKGKQAKPTCCNGVCNCNV
+PDB,
+Mass,2968.4365399999997
+Mode,blocker
+
+UniProt ID,R4GUQ3
+Sequence,ACVTHEDCTLLCYDTIGTCVDGKCKCM
+PDB,2LIX
+Mass,2920.525440000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/7,22511981
+Kv7.1,IC50,patch,mammal,mouse,11690,22511981
+
+UniProt ID,P0DJL0
+Sequence,SQPTECKYGRPCNSDRDCCWEYRCLSSGREYTCKQDPGP
+PDB,
+Mass,4514.06164
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,10000/40,21308893
+Kv1.2,IC50,patch,mammal,human,10000/42,21308893
+Kv1.3,IC50,patch,mammal,mouse,1700,21308893
+
+UniProt ID,P13487
+Sequence,QFTNVSCTTSKECWSVCQRLHNTSRGKCMNKKCRCYS
+PDB,"1BAH,1CMR,2A9H,2CRD,4JTA,4JTC,4JTD"
+Mass,4295.054439999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Ki,volt,oocyte,fly,227,8204618
+Kv1.1,Ki,volt,oocyte,rat,1500,8204618
+Kv1.2,Kd,volt,oocyte,rat,9,20007782
+Kv1.3,Ki,volt,oocyte,rat,0.19,8204618
+Kv1.6,Ki,volt,oocyte,rat,22,8204618
+Kv2.1,Ki,volt,oocyte,rat,>2000,8204618
+KCa1.1,Kd,volt,oocyte,mouse,3.5,20007782
+KCa3.1,Kd,,,human,5,10.1023/A:1017062613503
+
+UniProt ID,P45628
+Sequence,QFTQESCTASNQCWSICKRLHNTNRGKCMNKKCRCYS
+PDB,1LIR
+Mass,4335.07864
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,Ki,radio,mammal,rat,0.25,7533951
+KCa1.1,Kd,,mammal,rat,43,2477548
+Kir1.1,Kd,volt,oocyte,rat,410,9188688
+Kir2.1,Kd,volt,oocyte,,>3500,9188688
+
+UniProt ID,P46111
+Sequence,GVPINVSCTGSPQCIKPCKDAGMRFGKCMNRKCHCTPK
+PDB,1AGT
+Mass,4091.018940000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Ki,volt,oocyte,fly,0.64,8204618
+Kv1.1,Ki,volt,oocyte,rat,0.044,8204618
+Kv1.2,Kd,volt,oocyte,rat,3.4,20007782
+Kv1.3,Ki,volt,oocyte,rat,0.004,8204618
+Kv1.6,Ki,volt,oocyte,rat,0.037,8204618
+Kv2.1,Ki,volt,oocyte,rat,>2000,8204618
+
+UniProt ID,P46112
+Sequence,GVPINVPCTGSPQCIKPCKDAGMRFGKCMNRKCHCTPK
+PDB,
+Mass,4101.0574400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Ki,volt,oocyte,fly,0.64,8204618
+
+UniProt ID,P46110
+Sequence,GVPINVKCTGSPQCLKPCKDAGMRFGKCINGKCHCTPK
+PDB,
+Mass,4014.94604
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Ki,volt,oocyte,fly,0.16,8204618
+Kv1.1,Ki,volt,oocyte,rat,136,8204618
+Kv1.3,Ki,volt,oocyte,rat,1.7,8204618
+Kv1.6,Ki,volt,oocyte,rat,149,8204618
+Kv2.1,Ki,volt,oocyte,rat,>2000,8204618
+
+UniProt ID,P16341
+Sequence,AFCNLRMCQLSCRSLGLLGKCIGDKCECVKH
+PDB,1SCY
+Mass,3423.2812400000007
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa2.1,Kd,patch,mammal,human,325,11527975
+KCa2.2,Kd,patch,mammal,human,0.2,11527975
+KCa2.3,Kd,patch,mammal,human,1.1,11527975
+
+UniProt ID,P80671
+Sequence,VSCEDCPDHCSTQKARAKCDNDKCVCEPK
+PDB,
+Mass,3207.702440000001
+Mode,blocker
+
+UniProt ID,P80669
+Sequence,VGCEECPMHCKGKNAKPTCDNGVCNCNV
+PDB,
+Mass,2948.5014399999995
+Mode,blocker
+
+UniProt ID,P45660
+Sequence,GLIDVRCYDSRQCWIACKKVTGSTQGKCQNKQCRCY
+PDB,
+Mass,4137.912240000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,Ki,radio,mammal,rat,50,7533951
+
+UniProt ID,C7G3K3
+Sequence,AKKPFVQRVKNAASKAYNKLKGLAMQSQYGCPIISNMCEDHCRRKKMEGQCDLLDCVCS
+PDB,
+Mass,6632.737859999999
+Mode,blocker
+
+UniProt ID,A9QLM3
+Sequence,VPTGGCPLSDSLCAKYCKSHKFGKTGRCTGPNKMKCKCLV
+PDB,
+Mass,4242.206440000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,26.4,18006119
+KCa1.1,IC50,patch,mammal,mouse,>100,18006119
+
+UniProt ID,P0CH12
+Sequence,QKHTDIKCSSSSSCYEPCRGVTGRAHGKCMNGRCTCYY
+PDB,
+Mass,4212.86744
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,,1700,19103241
+Kv1.2,IC50,patch,mammal,,12500,19103241
+Kv1.3,IC50,patch,mammal,,28,19103241
+
+UniProt ID,D9U2A6
+Sequence,EGDCPISEAIKCVEKCKEKVEVCEPGVCKCSG
+PDB,
+Mass,3395.0654400000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/13,22511981
+Kv7.1,IC50,patch,mammal,mouse,10000/27,22511981
+
+UniProt ID,R4GUQ1
+Sequence,EADCPISEAIKCVEKCKEKVEVCEPGVCKCSG
+PDB,
+Mass,3409.09234
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/13,22511981
+Kv7.1,IC50,patch,mammal,mouse,10000/27,22511981
+
+UniProt ID,P0DJ46
+Sequence,KKKCQLPSDVGKGKASFTRYYYNEESGKCETFIYGGVGGNSNNFLTKEDCCRECAQGSC
+PDB,2M01
+Mass,6495.337839999998
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/50,22354971
+
+UniProt ID,P0DJ45
+Sequence,KNKCQLPSDVGKGKASFTRYYYNEEGGKCETFIYGGVGGNSNNFLTKEDCCRECAQGSC
+PDB,
+Mass,6451.241239999998
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/50,22354971
+
+UniProt ID,P0DJ48
+Sequence,KNKCQLPSDVGKGKASFTRYFYNEESGKCETFIYGGMGGNSNNFLTKEACCRECAQGSC
+PDB,
+Mass,6453.318339999998
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/50,22354971
+
+UniProt ID,C0HJQ8
+Sequence,QFTDVKCTGTKQCWPVCKKMFGRPNGKCMNGKCRCYP
+PDB,
+Mass,4221.162839999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,783.2,25792741
+Kv1.1,IC50,volt,oocyte,rat,2110,30248306
+Kv1.2,IC50,volt,oocyte,rat,0.19,30248306
+Kv1.3,IC50,volt,oocyte,human,67,30248306
+Kv1.4,IC50,volt,oocyte,rat,>1000,30248306
+Kv1.5,IC50,volt,oocyte,rat,>1000,30248306
+Kv1.6,IC50,volt,oocyte,rat,8900,30248306
+Kv2.1,IC50,volt,oocyte,rat,>1000,30248306
+Kv3.1,IC50,volt,oocyte,rat,>1000,30248306
+Kv4.2,IC50,volt,oocyte,rat,>1000,30248306
+Kv11.1,IC50,volt,oocyte,human,>1000,30248306
+
+UniProt ID,C0HJQ7
+Sequence,QFTDVKCTVTKQCWPVCKKMFGRPNGKCMNGKCRCYS
+PDB,
+Mass,4253.20504
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,134.8,25792741
+Kv1.1,IC50,volt,oocyte,rat,130,30248306
+Kv1.2,IC50,volt,oocyte,rat,3.1,30248306
+Kv1.3,IC50,volt,oocyte,human,78,30248306
+Kv1.4,IC50,volt,oocyte,rat,>1000,30248306
+Kv1.5,IC50,volt,oocyte,rat,>1000,30248306
+Kv1.6,IC50,volt,oocyte,rat,910,30248306
+Kv2.1,IC50,volt,oocyte,rat,>1000,30248306
+Kv3.1,IC50,volt,oocyte,rat,>1000,30248306
+Kv4.2,IC50,volt,oocyte,rat,>1000,30248306
+Kv11.1,IC50,volt,oocyte,human,>1000,30248306
+
+UniProt ID,P86396
+Sequence,VGINVKCKHSGQCLKPCKDAGMRFGKCMNGKCDCTPK
+PDB,
+Mass,3979.91874
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,2000/19,20713119
+Kv1.1,IC50,volt,oocyte,rat,0.203,20713119
+Kv1.2,IC50,volt,oocyte,rat,8.92,20713119
+Kv1.3,IC50,volt,oocyte,human,0.171,20713119
+Kv1.4,IC50,volt,oocyte,rat,>2000,20713119
+Kv1.5,IC50,volt,oocyte,rat,>2000,20713119
+Kv1.6,IC50,volt,oocyte,rat,2000/93,20713119
+Kv3.1,IC50,volt,oocyte,human,>2000,20713119
+Kv4.3,IC50,volt,oocyte,rat,>2000,20713119
+Kv11.1,IC50,volt,oocyte,human,>2000,20713119
+
+UniProt ID,C0HJQ4
+Sequence,REIPVKCKGSKQCLQSCKEAGMTYGKCMNGKCNCTPK
+PDB,
+Mass,4046.9603400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,90.3,25792741
+Kv1.2,IC50,volt,oocyte,rat,2677.7,10.1134/S0869813919110074
+Kv1.3,IC50,volt,oocyte,human,311.7,10.1134/S0869813919110074
+Kv1.4,IC50,volt,oocyte,rat,>1000,10.1134/S0869813919110074
+Kv1.5,IC50,volt,oocyte,rat,>1000,10.1134/S0869813919110074
+Kv1.6,IC50,volt,oocyte,rat,266.3,10.1134/S0869813919110074
+
+UniProt ID,C0HJQ6
+Sequence,VGINVKCKHSGQCLKPCKDAGMRFGKCINGKCDCTPK
+PDB,
+Mass,3961.88554
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,1.9,25792741
+Kv1.2,IC50,volt,oocyte,rat,106,10.1134/S0869813919110074
+Kv1.3,IC50,volt,oocyte,human,8.9,10.1134/S0869813919110074
+Kv1.4,IC50,volt,oocyte,rat,>1000,10.1134/S0869813919110074
+Kv1.5,IC50,volt,oocyte,rat,>1000,10.1134/S0869813919110074
+Kv1.6,IC50,volt,oocyte,rat,63.4,10.1134/S0869813919110074
+
+UniProt ID,P86400
+Sequence,VSCEDCPEHCATKDQRAKCDNDKCVCEPK
+PDB,
+Mass,3249.739740000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,3000/50,20889474
+Kv1.1,IC50,volt,oocyte,rat,3000/35,20889474
+Kv1.2,IC50,volt,oocyte,rat,>3000,20889474
+Kv1.3,IC50,volt,oocyte,human,2.36,20889474
+Kv1.4,IC50,volt,oocyte,rat,>3000,20889474
+Kv1.5,IC50,volt,oocyte,rat,>3000,20889474
+Kv1.6,IC50,volt,oocyte,rat,>3000,20889474
+Kv11.1,IC50,volt,oocyte,human,>3000,20889474
+
+UniProt ID,C0HJQ5
+Sequence,VSCEDCPPHCATKDQRAKCENDKCVCEPK
+PDB,
+Mass,3231.767840000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,8.5,25792741
+
+UniProt ID,D3JXM1
+Sequence,FGLIDVKCSASRECWVACKKVTGSGQGKCQNNQCRCY
+PDB,
+Mass,4065.8023400000006
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,>2000,21466856
+Kv1.1,IC50,volt,oocyte,rat,>2000,21466856
+Kv1.2,IC50,volt,oocyte,rat,>2000,21466856
+Kv1.3,IC50,volt,oocyte,human,2000/20,21466856
+Kv1.4,IC50,volt,oocyte,rat,>2000,21466856
+Kv1.5,IC50,volt,oocyte,rat,>2000,21466856
+Kv1.6,IC50,volt,oocyte,rat,>2000,21466856
+Kv11.1,IC50,volt,oocyte,human,>2000,21466856
+KCa1.1,IC50,volt,mammal,human,>2000,21466856
+
+UniProt ID,A9XE60
+Sequence,GFREKHFQRFVKYAVPESTLRTVLQTVVHKVGKTQFGCPAYQGYCDDHCQDIEKKEGFCHGFKCKCGIPMGF
+PDB,
+Mass,8255.65234
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,100,20045493
+
+UniProt ID,P0CH57
+Sequence,KMKNSWNRLTSMSEYACPVIEKWCEDHCQAKNAIGRCENTECKCLSK
+PDB,2KFE
+Mass,5462.398339999999
+Mode,blocker
+
+UniProt ID,Q9BKB7
+Sequence,RPTDIKCSESYQCFPVCKSRFGKTNGRCVNGFCDCF
+PDB,"1J5J,1LGL"
+Mass,4091.7965400000007
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.3,IC50,patch,mammal,human,>100,11136720
+Kv7.1,IC50,patch,mammal,human,>100,11136720
+Kv7.2,IC50,patch,mammal,human,>100,11136720
+Kv7.4,IC50,patch,mammal,human,>100,11136720
+Kv10,IC50,patch,mammal,human,>100,11136720
+Kv11.1,IC50,patch,mammal,human,7.7,11136720
+Kv11.2,Kd,patch,mammal,human,77,16497878
+Kv11.3,Kd,patch,mammal,human,11.5,16497878
+Kv12.1,IC50,patch,mammal,human,100/10,11136720
+KCa1.1,IC50,patch,mammal,human,>100,11136720
+KCa2.1,IC50,patch,mammal,human,>100,11136720
+KCa2.2,IC50,patch,mammal,rat,>100,11136720
+KCa3.1,IC50,patch,mammal,human,>100,11136720
+
+UniProt ID,P86399
+Sequence,GCNRLNKKCNSDADCCRYGERCISTGVNYYCRPDFGP
+PDB,
+Mass,4173.771839999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,12300,23721518
+Kv1.1,IC50,volt,oocyte,rat,>10000,23721518
+Kv1.2,IC50,volt,oocyte,rat,>10000,23721518
+Kv1.3,IC50,volt,oocyte,rat,>10000,23721518
+Kv1.4,IC50,volt,oocyte,rat,>10000,23721518
+
+UniProt ID,K7XFK5
+Sequence,KEIPVKCKHSGQCLQPCKDAGMRFGKCMNGKCNCTPK
+PDB,
+Mass,4063.99324
+Mode,blocker
+
+UniProt ID,B3EWX9
+Sequence,VGCEECPMHCKGKKALPTCDYGCECND
+PDB,
+Mass,2928.46434
+Mode,blocker
+
+UniProt ID,B3EWY1
+Sequence,FGLIDVKCSASRECWVACKKVTGSGQGKCQNNQCRCY
+PDB,
+Mass,4065.8023400000006
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,volt,oocyte,human,118,23142506
+
+UniProt ID,Q9NII6
+Sequence,QFTDVKCTGSKQCWPVCKQMFGKPNGKCMNGKCRCYS
+PDB,1BIG
+Mass,4169.04064
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,0.09,9354615
+Kv1.3,IC50,volt,oocyte,rat,1.5,9354615
+KCa1.1,IC50,radio,mammal,,0.65,9354615
+
+UniProt ID,Q9NII5
+Sequence,QFTNVSCSASSQCWPVCKKLFGTYRGKCMNSKCRCYS
+PDB,2BMT
+Mass,4178.97454
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,0.12,9354615
+Kv1.3,IC50,volt,oocyte,rat,1.6,9354615
+Kv11.1,IC50,volt,oocyte,human,5000/60,18687312
+KCa1.1,IC50,radio,mammal,,0.3,9354615
+
+UniProt ID,Q9NII7
+Sequence,VGINVKCKHSGQCLKPCKDAGMRFGKCINGKCDCTPK
+PDB,"1BKT,2K4U,2MLA,2MLD"
+Mass,3961.88554
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,2000/21,20713119
+Kv1,IC50,radio,mammal,rat,0.2,9354615
+Kv1.1,IC50,volt,oocyte,rat,2000/100,20713119
+Kv1.2,IC50,volt,oocyte,rat,2000/73,20713119
+Kv1.3,IC50,volt,oocyte,human,2000/100,20713119
+Kv1.4,IC50,volt,oocyte,rat,>2000,20713119
+Kv1.5,IC50,volt,oocyte,rat,>2000,20713119
+Kv1.6,IC50,volt,oocyte,rat,2000/91,20713119
+Kv3.1,IC50,volt,oocyte,human,>2000,20713119
+Kv4.3,IC50,volt,oocyte,rat,>2000,20713119
+Kv11.1,IC50,volt,oocyte,human,>2000,20713119
+
+UniProt ID,Q9TVX3
+Sequence,AVCNLKRCQLSCRSLGLLGKCIGDKCECVKH
+PDB,
+Mass,3372.2187400000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa2,IC50,patch,mammal,rat,920,11851432
+
+UniProt ID,Q9U8D2
+Sequence,ATCEDCPEHCATQNARAKCDNDKCVCEPK
+PDB,1WM7
+Mass,3177.6327400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,3000/70,20889474
+Kv1.1,IC50,volt,oocyte,rat,467,20889474
+Kv1.2,IC50,volt,oocyte,rat,>3000,20889474
+Kv1.3,IC50,volt,oocyte,human,133,20889474
+Kv1.4,IC50,volt,oocyte,rat,>3000,20889474
+Kv1.5,IC50,volt,oocyte,rat,>3000,20889474
+Kv1.6,IC50,volt,oocyte,rat,>3000,20889474
+Kv11.1,IC50,volt,oocyte,human,>3000,20889474
+KCa2,Kd,radio,mammal,rat,1000/4,9151979
+
+UniProt ID,Q9NJP7
+Sequence,VGCEECPMHCKGKNAKPTCDDGVCNCNV
+PDB,1DU9
+Mass,2949.4862399999997
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,20440,22239942
+Kv1.1,IC50,volt,oocyte,rat,1950,22239942
+Kv1.2,IC50,volt,oocyte,rat,4400,22239942
+Kv1.3,IC50,volt,oocyte,rat,7,22239942
+Kv1.4,IC50,volt,oocyte,rat,>1000,22239942
+KCa2,Kd,radio,mammal,rat,1000/12,9151979
+
+UniProt ID,Q9U8D1
+Sequence,VGCEECPMHCKGKNANPTCDDGVCNCNV
+PDB,1WM8
+Mass,2935.41594
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,4640,22239942
+Kv1.1,IC50,volt,oocyte,rat,5480,22239942
+Kv1.2,IC50,volt,oocyte,rat,530,22239942
+Kv1.3,IC50,volt,oocyte,rat,85.4,22239942
+Kv1.4,IC50,volt,oocyte,rat,>1000,22239942
+KCa2,Kd,radio,mammal,rat,1000/42,9151979
+
+UniProt ID,B5KF99
+Sequence,NEAVPTGGCPFSDFFCAKRCKDMKFGNTGRCTGPNKTVCKCSI
+PDB,
+Mass,4614.457039999998
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,1000/20,18571286
+Kv1.2,IC50,patch,mammal,human,26.4,18571286
+Kv1.3,IC50,patch,mammal,mouse,0.8,18571286
+KCa2.2,IC50,patch,mammal,human,10000/24,18571286
+KCa2.3,IC50,patch,mammal,human,10000/27,18571286
+
+UniProt ID,Q95NK7
+Sequence,TPFAIKCATDADCSRKCPGNPPCRNGFCACT
+PDB,1PVZ
+Mass,3242.839740000001
+Mode,blocker
+
+UniProt ID,Q9BKB4
+Sequence,TPFAIKCATNADCSRKCPGNPPCRNGFCACT
+PDB,
+Mass,3241.8549400000006
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa2,Kd,patch,mammal,rat,720,15208029
+
+UniProt ID,Q8I0L5
+Sequence,QVETNVKCQGGSCASVCRKAIGVAAGKCINGRCVCYP
+PDB,
+Mass,3750.51234
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,>5000,14599291
+Kv1.2,Kd,volt,oocyte,rat,>5000,14599291
+Kv1.3,Kd,volt,oocyte,human,>5000,14599291
+Kv7.1,Kd,volt,oocyte,human,>5000,14599291
+Kv11.1,Kd,volt,oocyte,human,1900,14599291
+
+UniProt ID,Q9NBG9
+Sequence,FGLIDVKCFASSECWTACKKVTGSGQGKCQNNQCRCY
+PDB,1M2S
+Mass,4058.7639400000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa1.1,IC50,volt,mammal,rat,21,12558995
+
+UniProt ID,Q95NJ8
+Sequence,QTQCQSVRDCQQYCLTPDRCSYGTCYCKTT
+PDB,1S8K
+Mass,3458.9854400000004
+Mode,blocker
+
+UniProt ID,P0DMR8
+Sequence,QRQCQNVQNCYKYCMSPKKCEYGTCYCEPSP
+PDB,
+Mass,3658.2990400000003
+Mode,blocker
+
+UniProt ID,P0DMR9
+Sequence,QRQCERLRDCYKYCMSPKRCTYGTCYCEPSP
+PDB,
+Mass,3744.4389400000005
+Mode,blocker
+
+UniProt ID,P83407
+Sequence,AACYSSDCRVKCVAMGFSSGKCINSKCKCYK
+PDB,"1Q2K,1R1G,3E8Y"
+Mass,3336.0672400000008
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,>100,15178692
+Kv1.2,IC50,volt,oocyte,rat,>100,15178692
+Kv1.3,IC50,volt,oocyte,human,>100,15178692
+Kv11.1,IC50,volt,oocyte,human,>100,15178692
+KCa1.1,IC50,patch,mammal,human,>10000,15178692
+KCa2.2,IC50,patch,mammal,rat,1000/62,15178692
+
+UniProt ID,A7KJJ7
+Sequence,NFKVEGACSKPCRKYCIDKGARNGKCINGRCHCYY
+PDB,2RTZ
+Mass,3980.7455400000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,150,17624312
+
+UniProt ID,P0DL65
+Sequence,ACVENCRKYCQDKGARNGKCINSNCHCYY
+PDB,2RTZ
+Mass,3338.88784
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,>50000,25514171
+Kv1.2,IC50,volt,oocyte,rat,15.6,25514171
+Kv1.3,IC50,volt,oocyte,rat,12500,25514171
+Shaker-IR,IC50,volt,oocyte,fly,0.054,25514171
+
+UniProt ID,Q9NJC6
+Sequence,KNIKEKLTEVKDKMKHSWNKLTSMSEYACPVIEKWCEDHCAAKKAIGKCEDTECKCLKLRK
+PDB,
+Mass,7124.53114
+Mode,blocker
+
+UniProt ID,P59938
+Sequence,RPTDIKCSASYQCFPVCKSRFGKTNGRCVNGLCDCF
+PDB,
+Mass,3999.74264
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,IC50,patch,mammal,human,6.7,24386436
+
+UniProt ID,P0DJ47
+Sequence,KHGSINCRLPPERGPCRGNITKYYYHNESRTCRTFSYGGCEGNSNNFRNRHYCMKYCARKRHGWLGTGWI
+PDB,
+Mass,8255.415640000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/18,22354971
+
+UniProt ID,P0DJ49
+Sequence,QKDCSLPVDTGRGKGWFLRYYYNKNSKTCESFIYGGVGGNKNNFLNIENCCKICKAKNC
+PDB,
+Mass,6686.749139999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,129.7,22354971
+
+UniProt ID,P0DJ50
+Sequence,EGVDCTLPSDTGRCKAYFIRYFYNQKAGECQKFVYGGCEGNSNNFLTKSDCCKQCSPGKC
+PDB,
+Mass,6656.623439999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,371.3,22354971
+
+UniProt ID,P24663
+Sequence,QFTDVDCSVSKECWSVCKDLFGVDRGKCMGKKCRCYQ
+PDB,
+Mass,4230.016839999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa1.1,Ki,radio,mammal,,0.25,1694175
+
+UniProt ID,P59869
+Sequence,AFCNLRRCELSCRSLGLLGKCIGEECKCVPY
+PDB,"2KY3,2LU9,2ME7,2MEL,2MEN,2MEO"
+Mass,3458.26534
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa2.1,IC50,patch,mammal,human,42,12239213
+KCa2.2,IC50,patch,mammal,rat,0.024,12239213
+KCa2.3,IC50,patch,mammal,rat,1.7,12239213
+KCa3.1,IC50,patch,mammal,human,>50,12239213
+
+UniProt ID,P59870
+Sequence,AFCNLRRCELSCRSLGLLGKCIGEECKCVPH
+PDB,
+Mass,3432.2304400000007
+Mode,blocker
+
+UniProt ID,P60209
+Sequence,VGCAECPMHCKGKMAKPTCENEVCKCNIGKKD
+PDB,2KTC
+Mass,3450.2298400000004
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,human,4600,12650917
+
+UniProt ID,P0C173
+Sequence,DLIDVKCISSQECWIACKKVTGRFEGKCQNRQCRCY
+PDB,
+Mass,4207.01554
+Mode,blocker
+
+UniProt ID,P0C909
+Sequence,GVPTDVKCRGSPQCIQPCKDAGMRFGKCMNGKCHCTPK
+PDB,
+Mass,4076.94874
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,>35,18471844
+Kv1.1,IC50,volt,oocyte,rat,>35,18471844
+Kv1.2,IC50,volt,oocyte,rat,>35,18471844
+Kv1.3,IC50,volt,oocyte,human,7.2,18471844
+Kv1.4,IC50,volt,oocyte,rat,>35,18471844
+Kv1.5,IC50,volt,oocyte,rat,>35,18471844
+Kv1.6,IC50,volt,oocyte,rat,>35,18471844
+Kv11.1,IC50,volt,oocyte,human,>35,18471844
+
+UniProt ID,P0CC12
+Sequence,VSCEDCPEHCSTQKARAKCDNDKCVCESV
+PDB,
+Mass,3182.6493400000004
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,>400,17070524
+Kv1.1,IC50,volt,oocyte,rat,>400,17070524
+Kv1.2,IC50,volt,oocyte,rat,183,17070524
+Kv1.3,IC50,volt,oocyte,human,>400,17070524
+Kv1.4,IC50,volt,oocyte,rat,>400,17070524
+Kv1.5,IC50,volt,oocyte,rat,>400,17070524
+
+UniProt ID,P86116
+Sequence,IRCQGSNQCYGHCREKTGCMNGKCINRVCKCYGC
+PDB,
+Mass,3809.6010400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,82,23684923
+Kv1.3,Kd,patch,mammal,human,18,23684923
+
+UniProt ID,P86110
+Sequence,YDACVNACLEHHPNVRECEEACKNPVPP
+PDB,
+Mass,3134.5738400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,>250000,21624408
+Kv1.1,IC50,volt,oocyte,rat,>250000,21624408
+Kv1.2,IC50,volt,oocyte,rat,>250000,21624408
+Kv1.3,IC50,volt,oocyte,human,>250000,21624408
+Kv1.4,IC50,volt,oocyte,rat,>250000,21624408
+Kv1.5,IC50,volt,oocyte,rat,>250000,21624408
+Kv1.6,IC50,volt,oocyte,rat,>250000,21624408
+Kv1.8,IC50,volt,oocyte,rat,>250000,21624408
+Kv2.1,IC50,volt,oocyte,rat,>250000,21624408
+Kv3.1,IC50,volt,oocyte,rat,>250000,21624408
+Kv4.2,IC50,volt,oocyte,rat,>250000,21624408
+Kv11.1,IC50,volt,oocyte,human,>250000,21624408
+
+UniProt ID,P0C194
+Sequence,VHTNIPCRGTSDCYEPCEKKYNCARAKCMNRHCNCYNNCPW
+PDB,1WMT
+Mass,4819.631240000001
+Mode,blocker
+
+UniProt ID,P0C1Z3
+Sequence,DPCYEVCLQQHGNVKECEEACKHPVE
+PDB,"1WQC,1WQD"
+Mass,2984.39064
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,500000/17,15631621
+Kv1.2,Kd,volt,oocyte,rat,500000/14,15631621
+Kv1.3,Kd,volt,oocyte,human,500000/24,15631621
+
+UniProt ID,P0C1Z3
+Sequence,DPCYEVCLQQHGNVKECEEACKHPVEY
+PDB,"1WQC,1WQD"
+Mass,3147.56664
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,500000/8,15631621
+Kv1.2,Kd,volt,oocyte,rat,500000/10,15631621
+Kv1.3,Kd,volt,oocyte,human,500000/36,15631621
+
+UniProt ID,P0C1Z4
+Sequence,NDPCEEVCLQHTGNVKACEEACQ
+PDB,1WQE
+Mass,2516.82234
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,500000/33,15631621
+Kv1.2,Kd,volt,oocyte,rat,500000/8,15631621
+Kv1.3,Kd,volt,oocyte,human,500000/70,15631621
+
+UniProt ID,P0C1Z3
+Sequence,DPCYEVCLQQHGNVKECEEACKHP
+PDB,"1WQC,1WQD"
+Mass,2756.1425400000003
+Mode,blocker
+
+UniProt ID,P55896
+Sequence,GVIINVKCKISRQCLEPCKKAGMRFGKCMNGKCHCTPK
+PDB,"1SCO,2CK4,2CK5"
+Mass,4205.2961399999995
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,0.6,15588251
+Kv1.2,IC50,patch,mammal,human,5.4,15588251
+Kv1.3,IC50,patch,mammal,mouse,0.014,15588251
+Kv1.4,IC50,patch,mammal,human,>1000,15588251
+Kv1.5,IC50,patch,mammal,human,>1000,15588251
+Kv1.6,IC50,patch,mammal,,>1000,15588251
+Kv1.7,IC50,patch,mammal,mouse,>1000,15588251
+Kv3.1,IC50,patch,mammal,mouse,>1000,15588251
+Kv3.2,IC50,patch,mammal,rat,>1000,16234482
+Kv11,IC50,patch,mammal,human,>1000,15588251
+KCa1.1,IC50,patch,mammal,human,>1000,15588251
+KCa2.1,IC50,patch,mammal,human,>1000,15588251
+KCa2.2,IC50,patch,mammal,rat,>1000,15588251
+KCa2.3,IC50,patch,mammal,human,>1000,15588251
+KCa3.1,IC50,patch,mammal,human,225,15588251
+
+UniProt ID,A0A1L2FZD4
+Sequence,VSCEDCPEHCSTQKARAKCDNDKCVCEPI
+PDB,
+Mass,3206.7146400000006
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,>1000,28179135
+Kv1.2,IC50,volt,oocyte,rat,331,28179135
+Kv1.3,IC50,volt,oocyte,human,503,28179135
+Kv1.4,IC50,volt,oocyte,rat,>1000,28179135
+Kv1.5,IC50,volt,oocyte,rat,>1000,28179135
+Kv1.6,IC50,volt,oocyte,rat,9983,28179135
+Kv2.1,IC50,volt,oocyte,rat,>1000,28179135
+Kv3.1,IC50,volt,oocyte,human,>1000,28179135
+Kv4.2,IC50,volt,oocyte,rat,>1000,28179135
+Kv11.1,IC50,volt,oocyte,human,>1000,28179135
+Shaker-IR,IC50,volt,oocyte,fly,>1000,28179135
+
+UniProt ID,P83244
+Sequence,ACGPGCSGSCRQKGDRIKCINGSCHCYP
+PDB,
+Mass,2895.42834
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,>250,11527374
+Kv1.2,Kd,volt,oocyte,rat,97,11527374
+Kv1.3,Kd,volt,oocyte,human,>250,11527374
+
+UniProt ID,Q10726
+Sequence,LVKCRGTSDCGRPCQQQTGCPNSKCINRMCKCYGC
+PDB,1WZ5
+Mass,3834.6487400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,32,9001397
+Kv1,IC50,flux,mammal,rat,100,8913348
+Kv1.1,IC50,volt,oocyte,rat,>5000,10931199
+Kv1.2,IC50,volt,oocyte,rat,0.44,10931199
+Kv1.3,Kd,patch,mammal,human,9.7,9464266
+KCa2.2,Kd,patch,mammal,human,100,11527975
+KCa2.3,Kd,patch,mammal,human,250,11527975
+
+UniProt ID,P58498
+Sequence,IEAIRCGGSRDCYRPCQKRTGCPNAKCINKTCKCYGCS
+PDB,1N8M
+Mass,4180.0322400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,3,12919322
+Kv1.1,IC50,volt,oocyte,rat,>10000,12919322
+Kv1.2,IC50,volt,oocyte,rat,0.008,12919322
+Kv1.3,IC50,volt,oocyte,rat,>10000,12919322
+KCa2,IC50,volt,mammal,rat,500,12919322
+
+UniProt ID,P58490
+Sequence,DEAIRCTGTKDCYIPCRYITGCFNSRCINKSCKCYGCT
+PDB,1QKY
+Mass,4283.10334
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,patch,insect,fly,>100,9655636
+
+UniProt ID,P55927
+Sequence,TISCTNPKQCYPHCKKETGYPNAKCMNRKCKCFGR
+PDB,2PTA
+Mass,4033.8649400000004
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,8.2,8660410
+Kv1,IC50,flux,mammal,rat,6,8913348
+Kv1.2,IC50,volt,mammal,,0.032,8913348
+Kv1.3,Kd,patch,mammal,human,0.044,11155206
+
+UniProt ID,P55928
+Sequence,TISCTNEKQCYPHCKKETGYPNAKCMNRKCKCFGR
+PDB,1C49
+Mass,4065.86374
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,140,8660410
+Kv1,IC50,flux,mammal,rat,42,8913348
+Kv1.3,Kd,patch,mammal,human,0.795,11155206
+
+UniProt ID,C0HKB2
+Sequence,VAKCSTSECGHACQQAGCRNSGCRYGSCICVGC
+PDB,
+Mass,3334.7009800000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,540,28502745
+Kv1.1,Kd,patch,mammal,human,>100,28502745
+Kv1.2,Kd,patch,mammal,human,92,28502745
+Kv1.3,Kd,patch,mammal,human,77,28502745
+Kv1.4,Kd,patch,mammal,human,>100,28502745
+Shab,Kd,patch,insect,fly,>1500,28502745
+
+UniProt ID,P56972
+Sequence,GWINEEKIQKKIDERMGNTVLGGMAKAIVHKMAKNEFQCMANMDMLGNCEKHCQTSGEKGYCHGTKCKCGTPLSY
+PDB,
+Mass,8350.82714
+Mode,blocker
+
+UniProt ID,C0HKB3
+Sequence,VDACYEACMHHHMNSDDCIEACKNPVPP
+PDB,
+Mass,3126.444540000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,>100,28502745
+Kv1.1,Kd,patch,mammal,human,>100,28502745
+Kv1.2,Kd,patch,mammal,human,100/31,28502745
+Kv1.3,Kd,patch,mammal,human,100/22,28502745
+Kv1.4,Kd,patch,mammal,human,>100,28502745
+Shab,Kd,patch,insect,fly,>100,28502745
+
+UniProt ID,Q6WGI9
+Sequence,DEEPKETCSDDMCVIYCKGEEFSTGACDGPQKCKCS
+PDB,
+Mass,3931.4487400000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,1000/50,14561751
+
+UniProt ID,P83112
+Sequence,EVDMRCKSSKECLVKCKQATGRPNGKCMNRKCKCYPR
+PDB,
+Mass,4274.22974
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,79000,11952787
+Kv1.2,Kd,volt,oocyte,rat,547,11952787
+Kv1.3,Kd,volt,oocyte,human,492,11952787
+Kv11.1,IC50,volt,oocyte,human,>5000,18687312
+
+UniProt ID,P60164
+Sequence,DEEPKESCSDEMCVIYCKGEEYSTGVCDGPQKCKCSD
+PDB,
+Mass,4090.59054
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,21000,14561751
+Kv1.2,Kd,volt,oocyte,rat,1000,14561751
+Kv1.3,Kd,volt,oocyte,human,800,14561751
+
+UniProt ID,P60165
+Sequence,DEEPKETCSDEMCVIYCKGEEYSTGVCDGPQKCKCSD
+PDB,
+Mass,4104.617440000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,rat,1000/50,14561751
+
+UniProt ID,P0DL43
+Sequence,TIINVKCTSPKQCVPACKAAMGTVRAKCINGKCKCYI
+PDB,
+Mass,3939.96014
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,human,1000,24512947
+Kv1.4,IC50,patch,mammal,human,>1000,24512947
+Kv10,IC50,patch,mammal,human,>1000,24512947
+Kv11.1,IC50,patch,mammal,human,>1000,24512947
+
+UniProt ID,C0HJS9
+Sequence,IVIDVPCTVSKECWSACKKAVGTDRGKCMGKKCKCYP
+PDB,
+Mass,4030.9830400000014
+Mode,blocker
+
+UniProt ID,C0HJT0
+Sequence,TVIDVKCTSPKQCVPACKAAMGTVRAKCMNGKCKCYI
+PDB,
+Mass,3944.9513400000005
+Mode,blocker
+
+UniProt ID,P80719
+Sequence,VSCTGSKDCYAPCRKQTGCPNAKCINKSCKCYGC
+PDB,"1TXM,1WPD,1WT7"
+Mass,3612.383740000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,2.4,10888198
+Kv1,IC50,radio,mammal,rat,0.2,9022673
+Kv1.1,IC50,volt,oocyte,rat,45,9136903
+Kv1.2,IC50,volt,oocyte,rat,0.8,9136903
+Kv1.3,IC50,volt,oocyte,rat,180,9136903
+KCa1.1,IC50,patch,mammal,human,>1000,12527813
+KCa2,IC50,radio,mammal,rat,5,9022673
+KCa2.2,Kd,patch,mammal,human,1000,11527975
+KCa2.3,Kd,patch,mammal,human,>1000,11527975
+KCa3.1,IC50,patch,mammal,human,1,12527813
+
+UniProt ID,P0DL33
+Sequence,EDKLKCTKTDDCAKYCSQFTDVHPACLGGYCECLRWEGGISS
+PDB,
+Mass,4656.34024
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,mouse,1000/64,22511981
+Kv7.1,IC50,patch,mammal,mouse,10000/4,22511981
+
+UniProt ID,P0DQN4
+Sequence,FPSENAPTGGCPLSDNVCSSYCKKNKFGNEGKCHGTICKCSIK
+PDB,
+Mass,4548.10406
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,1000/21,29142737
+Kv1.2,IC50,patch,mammal,human,1000/7,29142737
+Kv1.3,IC50,patch,mammal,mouse,24.73,29142737
+
+UniProt ID,P0DQN5
+Sequence,SPLHGAKCSSSNQCTRPCRYGGGTHGKCMNGRCRCYG
+PDB,
+Mass,3928.37516
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,485,31890149
+Kv1.2,IC50,patch,mammal,mouse,57,31890149
+Kv1.3,IC50,patch,mammal,mouse,"14,7",31890149
+
+UniProt ID,P0DP36
+Sequence,TKCSGSPECVKFCRTKGCRNGKCMNRSCKCYLCS
+PDB,
+Mass,3774.6367400000004
+Mode,blocker
+
+UniProt ID,P0C185
+Sequence,WCSTCLDLECGASRECYDPCFKAFGRAHGKCMNNKCRCYT
+PDB,
+Mass,4564.394939999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,3000,15683865
+
+UniProt ID,Q5G8A6
+Sequence,GLREKHVQKLVALIPNDQLRSILKAVVHKVAKTQFGCPAYEGYCNNHCQDIERKDGECHGFKCKCAKD
+PDB,
+Mass,7677.997840000001
+Mode,blocker
+
+UniProt ID,Q0GY42
+Sequence,KIKSGWERLTSESEYACPAIDKFCEDHCAAKKAVGKCDDFKCNCIKL
+PDB,
+Mass,5278.207640000001
+Mode,blocker
+
+UniProt ID,P59925
+Sequence,VFINVKCTGSKQCLPACKAAVGKAAGKCMNGKCKCYT
+PDB,
+Mass,3819.7653400000013
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,290,10452547
+
+UniProt ID,P84777
+Sequence,QIDTNVKCSGSSKCVKICIDRYNTRGAKCINGRCTCYP
+PDB,2AXK
+Mass,4175.9539399999985
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,IC50,volt,oocyte,human,>3000,18687312
+
+UniProt ID,P0C1X5
+Sequence,TGPQTTCQASTCEAGCKQIGKSMKSCQGDTCECA
+PDB,
+Mass,3450.977340000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,1500,16705749
+
+UniProt ID,P0C1X6
+Sequence,GEGPKSDCKPDLCEAACKDLGKPMDFCKDGTCKCKD
+PDB,
+Mass,3831.5077400000014
+Mode,blocker
+
+UniProt ID,Q0GY44
+Sequence,KLVTLIPNDTLRSIMKTIVHKLAKTQFGCPAYEGYCMNHCQDIERHDGSCHGFKCKCEKS
+PDB,
+Mass,6823.0636399999985
+Mode,blocker
+
+UniProt ID,Q0GY43
+Sequence,KIKAGWDKLTSKSEYACPVIDKFCEDHCAAKNAIGKCDDFKCQCLNS
+PDB,
+Mass,5221.112239999999
+Mode,blocker
+
+UniProt ID,P60210
+Sequence,VFINVKCRGSKECLPACKAAVGKAAGKCMNGKCKCYP
+PDB,
+Mass,3871.8441400000015
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,74,12445473
+Kv1.3,Kd,patch,mammal,human,16,12445473
+
+UniProt ID,P83243
+Sequence,ACGSCRKKCKGSGKCINGRCKCY
+PDB,1JLZ
+Mass,2448.06734
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,65,11113450
+
+UniProt ID,P60211
+Sequence,TGPQTTCQAAMCEAGCKGLGKSMESCQGDTCKCKA
+PDB,2JP6
+Mass,3522.1607400000007
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,4700,12445473
+Kv1.3,Kd,patch,mammal,human,10,12445473
+
+UniProt ID,P84630
+Sequence,ACGSCRKKCKGPGKCINGRCKCY
+PDB,
+Mass,2457.12114
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,200,12445473
+
+UniProt ID,P46114
+Sequence,VFINAKCRGSPECLPKCKEAIGKAAGKCMNGKCKCYP
+PDB,1HP2
+Mass,3941.8917400000014
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,1000/97,24590385
+Kv1.1,IC50,volt,oocyte,rat,1000/85,24590385
+Kv1.2,Kd,,,mouse,0.2,10.1023/A:1017062613503
+Kv1.3,IC50,volt,oocyte,rat,1000/85,24590385
+Kv1.4,IC50,volt,oocyte,rat,>1000,24590385
+Kv1.5,IC50,volt,oocyte,rat,>1000,24590385
+Kv1.6,IC50,volt,oocyte,rat,1000/94,24590385
+Kv2.1,IC50,volt,oocyte,rat,>1000,24590385
+Kv3.1,IC50,volt,oocyte,rat,>1000,24590385
+Kv7.1,IC50,volt,oocyte,rat,>1000,24590385
+Kv7.2,IC50,volt,oocyte,rat,>1000,24590385
+Kv11.1,IC50,volt,oocyte,human,>5000,18687312
+
+UniProt ID,P56219
+Sequence,VVIGQRCYRSPDCYSACKKLVGKATGKCTNGRCDC
+PDB,1TSK
+Mass,3778.52754
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,IC50,volt,oocyte,human,5000/53,18687312
+KCa2.2,Kd,patch,mammal,human,80,11527975
+KCa2.3,Kd,patch,mammal,human,197,11527975
+
+UniProt ID,P59936
+Sequence,WCSTCLDLACGASRECYDPCFKAFGRAHGKCMNNKCRCYT
+PDB,"1C55,1C56,1WT7"
+Mass,4506.35824
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,1000/80,24590385
+Kv1,IC50,radio,mammal,rat,46,12630699
+Kv1.1,IC50,volt,oocyte,rat,1000/9,24590385
+Kv1.2,IC50,volt,oocyte,rat,6.19,24590385
+Kv1.3,IC50,volt,oocyte,rat,0.55,24590385
+Kv1.4,IC50,volt,oocyte,rat,>1000,24590385
+Kv1.5,IC50,volt,oocyte,rat,1000/25,24590385
+Kv1.6,IC50,volt,oocyte,rat,1000/20,24590385
+Kv2.1,IC50,volt,oocyte,rat,>1000,24590385
+Kv3.1,IC50,volt,oocyte,rat,>1000,24590385
+Kv7.1,IC50,volt,oocyte,rat,1000/5,24590385
+Kv7.2,IC50,volt,oocyte,rat,1000/14,24590385
+Kv11.1,IC50,volt,oocyte,human,1000/11,24590385
+
+UniProt ID,P86271
+Sequence,GCMKEYCAGQCRGKVSQDYCLKHCKCIPR
+PDB,2LO7
+Mass,3303.043240000001
+Mode,blocker
+
+UniProt ID,P86270
+Sequence,GKFGKCKPNICAKTCQTEKGKGMGYCNKTECVCSEW
+PDB,
+Mass,3955.74224
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,500/20,21600910
+Kv1.1,IC50,volt,oocyte,rat,500/10,21600910
+Kv1.2,IC50,volt,oocyte,rat,196,21600910
+Kv1.3,IC50,volt,oocyte,human,508,21600910
+Kv1.4,IC50,volt,oocyte,rat,>500,21600910
+Kv1.5,IC50,volt,oocyte,rat,500/10,21600910
+Kv1.6,IC50,volt,oocyte,rat,500/20,21600910
+Kv2.1,IC50,volt,oocyte,rat,>500,21600910
+Kv3.1,IC50,volt,oocyte,human,500/5,21600910
+Kv4.2,IC50,volt,oocyte,rat,>500,21600910
+Kv4.3,IC50,volt,oocyte,rat,>500,21600910
+Kv11.1,IC50,volt,oocyte,human,>500,21600910
+
+UniProt ID,P69940
+Sequence,KLVALIPNDQLRSILKAVVHKVAKTQFGCPAYEGYCNDHCNDIERKDGECHGFKCKCAKD
+PDB,
+Mass,6716.86294
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,flux,mammal,rat,30,7509073
+Kv1.1,IC50,volt,oocyte,rat,>1000,27346450
+Kv1.2,IC50,volt,oocyte,rat,>1000,27346450
+Kv1.3,IC50,volt,oocyte,rat,>1000,27346450
+Kv1.4,IC50,volt,oocyte,rat,>1000,27346450
+Kv1.5,IC50,volt,oocyte,rat,>1000,27346450
+Kv1.6,IC50,volt,oocyte,rat,>1000,27346450
+Kv2.1,IC50,volt,oocyte,rat,>1000,27346450
+Kv3.1,IC50,volt,oocyte,rat,>1000,27346450
+Kv4.2,IC50,volt,oocyte,rat,652,27346450
+Kv7.1,IC50,volt,oocyte,rat,>1000,27346450
+Kv7.2,IC50,volt,oocyte,rat,>1000,27346450
+Kv7.4,IC50,volt,oocyte,rat,>1000,27346450
+Kv7.5,IC50,volt,oocyte,rat,>1000,27346450
+Kv10.1,IC50,volt,oocyte,human,>1000,27346450
+Shaker-IR,IC50,volt,oocyte,fly,>1000,27346450
+
+UniProt ID,P86822
+Sequence,KIKEKIIEAKDKMKAGWERLTSQSEYACPAIDKFCEDHCAAKKAVGKCDDFKCNCIK
+PDB,
+Mass,6468.578440000002
+Mode,blocker
+
+UniProt ID,P0C174
+Sequence,KPKCGLCRYRCCSGGCSSGKCVNGACDCS
+PDB,2MSF
+Mass,2938.57354
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,>3000,27706049
+Kv1.2,IC50,volt,oocyte,rat,3000/25,27706049
+Kv1.3,IC50,volt,oocyte,human,17100,27706049
+Kv1.4,IC50,volt,oocyte,rat,>3000,27706049
+Kv1.5,IC50,volt,oocyte,rat,>3000,27706049
+Kv1.6,IC50,volt,oocyte,rat,>3000,27706049
+Kv2.1,IC50,volt,oocyte,rat,>3000,27706049
+Kv3.1,IC50,volt,oocyte,human,>3000,27706049
+Kv4.2,IC50,volt,oocyte,rat,3000/25,27706049
+Kv10.1,IC50,volt,oocyte,human,3000/15,27706049
+Kv11.1,IC50,volt,oocyte,human,3000/12,27706049
+Shaker-IR,IC50,volt,oocyte,fly,3000/10,27706049
+
+UniProt ID,P0C175
+Sequence,TVKCGGCNRKCCAGGCRSGKCINGKCQCY
+PDB,
+Mass,2992.7145400000004
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,>3000,27706049
+Kv1.2,IC50,volt,oocyte,rat,3000/5,27706049
+Kv1.3,IC50,volt,oocyte,human,3000/10,27706049
+Kv1.4,IC50,volt,oocyte,rat,3000/20,27706049
+Kv1.5,IC50,volt,oocyte,rat,>3000,27706049
+Kv1.6,IC50,volt,oocyte,rat,>3000,27706049
+Kv2.1,IC50,volt,oocyte,rat,>3000,27706049
+Kv3.1,IC50,volt,oocyte,human,>3000,27706049
+Kv4.2,IC50,volt,oocyte,rat,>3000,27706049
+Kv10.1,IC50,volt,oocyte,human,>3000,27706049
+Kv11.1,IC50,volt,oocyte,human,3000/24,27706049
+Shaker-IR,IC50,volt,oocyte,fly,3000/27,27706049
+
+UniProt ID,P0CB56
+Sequence,VFINAKCRGSPECLPKCKQAIGKAAGKCMNGKCKCYP
+PDB,
+Mass,3940.906940000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,patch,mammal,mouse,>10,19500613
+Kv1.2,Kd,patch,mammal,human,1.9,19500613
+Kv1.3,Kd,patch,mammal,human,10.7,19500613
+Kv1.4,Kd,patch,mammal,human,>10,19500613
+Kv1.5,Kd,patch,mammal,human,>10,19500613
+Kv11.1,Kd,patch,mammal,human,>10,19500613
+KCa1.1,Kd,patch,mammal,human,>10,19500613
+KCa3.1,Kd,patch,mammal,human,>10,19500613
+
+UniProt ID,P0DPT4
+Sequence,VFINAKCRGSPECLPKCKEAIGKAAGKCMNGKCKCYP
+PDB,
+Mass,3941.7058600000014
+Mode,blocker
+
+UniProt ID,P0C8L1
+Sequence,WCSTCLDLACGASRECYDPCFKAFGRAHGKCMNNKCRCYT
+PDB,
+Mass,4506.35824
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,660,12565736
+
+UniProt ID,P0C8L2
+Sequence,GCRQCGGGCNKHGKCINGKCKCY
+PDB,
+Mass,2410.9652400000004
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,3000/50,17270501
+
+UniProt ID,P0C2F3
+Sequence,KLVALIPNDQLRSILKAVVHKVAKTQFGCPAYEGYCNDHCNDIERKDGECHGFKCKCAKD
+PDB,
+Mass,6716.86294
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,96,18030427
+
+UniProt ID,P0C8W4
+Sequence,KDKMKAGWERLTSQSEYACPAIDKFCEDHCAAKKAVGKCDDFKCKCIKL
+PDB,
+Mass,5536.589640000003
+Mode,blocker
+
+UniProt ID,P0C168
+Sequence,WCSTCLDLACGASRECYDPCFKAFGRAHGKCMNNKCRCYT
+PDB,
+Mass,4506.35824
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Kd,patch,insect,fly,660,12565736
+Kv1,IC50,radio,mammal,rat,46,12630699
+Kv1.1,IC50,volt,oocyte,rat,1000/9,24590385
+Kv1.2,IC50,volt,oocyte,rat,6.19,24590385
+Kv1.3,IC50,volt,oocyte,rat,0.55,24590385
+Kv1.4,IC50,volt,oocyte,rat,>1000,24590385
+Kv1.5,IC50,volt,oocyte,rat,1000/25,24590385
+Kv1.6,IC50,volt,oocyte,rat,1000/20,24590385
+Kv2.1,IC50,volt,oocyte,rat,>1000,24590385
+Kv3.1,IC50,volt,oocyte,rat,>1000,24590385
+Kv7.1,IC50,volt,oocyte,rat,1000/5,24590385
+Kv7.2,IC50,volt,oocyte,rat,1000/14,24590385
+Kv11.1,IC50,volt,oocyte,human,1000/11,24590385
+
+UniProt ID,P0C183
+Sequence,GCTPEYCSMWCKVKVSQNYCVKNCKCPGR
+PDB,
+Mass,3310.0318400000006
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,EC50,volt,oocyte,fly,>500,16405970
+Kv1.1,EC50,volt,oocyte,rat,>500,16405970
+Kv1.2,EC50,volt,oocyte,rat,102,16405970
+Kv1.3,EC50,volt,oocyte,human,7.9,16405970
+Kv1.4,EC50,volt,oocyte,rat,>500,16405970
+Kv1.5,EC50,volt,oocyte,rat,>500,16405970
+Kv11.1,EC50,volt,oocyte,human,>500,16405970
+
+UniProt ID,B3A0L5
+Sequence,GCMPEYCAGQCRGKVSQDYCLKNCRCIR
+PDB,2LI3
+Mass,3179.8452400000006
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,200000/88,22238341
+Kv1.2,IC50,volt,oocyte,human,200000/75,22238341
+
+UniProt ID,P0DL37
+Sequence,GDIKCSGTRQCWGPCKKQTTCTNSKCMNGKCKCYGCV
+PDB,6MZT
+Mass,4012.879840000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,human,253,24723491
+Kv1.2,IC50,patch,mammal,human,0.16,24723491
+Kv1.3,IC50,patch,mammal,human,91,24723491
+Kv1.5,IC50,patch,mammal,human,>10,24723491
+KCa3.1,IC50,patch,mammal,human,70,24723491
+
+UniProt ID,P0DJ31
+Sequence,AAAISCVGSPECPPKCRAQGCKNGKCMNRKCKCYYC
+PDB,2K9O
+Mass,3863.776640000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,mammal,mouse,0.8,22622363
+Kv1.2,Kd,volt,mammal,human,0.54,22622363
+Kv1.3,Kd,patch,mammal,human,0.003,22622363
+Kv1.4,Kd,volt,mammal,human,>10,22622363
+Kv1.5,Kd,volt,mammal,human,>10,22622363
+Kv2.1,Kd,volt,mammal,rat,>10,22622363
+Kv11.1,Kd,volt,mammal,human,>10,22622363
+KCa1.1,Kd,volt,mammal,human,>10,22622363
+KCa2.3,Kd,volt,mammal,human,>10,22622363
+KCa3.1,Kd,volt,mammal,human,0.59,22622363
+
+UniProt ID,P0DJ32
+Sequence,AAAISCVGSKECLPKCKAQGCKSGKCMNKKCKCYC
+PDB,
+Mass,3667.6024400000015
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,mammal,mouse,10/0,WO2008139243A1
+Kv1.2,Kd,volt,mammal,human,"10/9,8",WO2008139243A1
+Kv1.3,Kd,patch,mammal,human,10/100,WO2008139243A1
+KCa3.1,Kd,volt,mammal,human,10/0,WO2008139243A1
+
+UniProt ID,Q2PAY4
+Sequence,YCQKWMWTCDSKRACCEGLRCKLWCRKII
+PDB,
+Mass,3605.322760000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv,,patch,mammal,rat,"52,3",20571743
+Kv1.2,IC50,volt,oocyte,,>10000,17157888
+Kv1.3,IC50,volt,oocyte,,>10000,17157888
+Kv1.4,IC50,volt,oocyte,,>10000,17157888
+Kv2.1,Kd,volt,oocyte,,14300,17150181
+Kv2.1,IC50,volt,oocyte,,5000/35,17150181
+Kv4.1,IC50,volt,oocyte,,5000/25,17150181
+Kv4.2,IC50,volt,oocyte,,5000/90,17150181
+Kv4.2,IC50,volt,oocyte,,"604,2",17157888
+Kv4.3,IC50,volt,oocyte,,"425,1",20571743
+
+UniProt ID,P84837
+Sequence,ECRKMFGGCSVDSDCCAHLGCKPTLKYCAWDGT
+PDB,
+Mass,3580.0444600000014
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,,,,,,16567526
+
+UniProt ID,P84836
+Sequence,DGECGGFWWKCGSGKPACCPKYVCSPKWGLCNFPMP
+PDB,
+Mass,3934.54176
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,IC50,flux,mammal,human,"1,7",16567526
+
+UniProt ID,P84835
+Sequence,EGECGGFWWKCGSGKPACCPKYVCSPKWGLCNFPMP
+PDB,2WH9
+Mass,3948.56866
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,Kd,volt,mammal,human,>4000,16567526
+Kv1.3,Kd,volt,mammal,human,>4000,16567526
+Kv1.5,Kd,volt,mammal,human,>4000,16567526
+Kv2.1,Kd,volt,mammal,human,"5,1",16567526
+Kv2.2,Kd,volt,mammal,human,"2,6",16567526
+Kv3.2,Kd,volt,mammal,human,>4000,16567526
+Kv4.3,Kd,volt,mammal,human,54,16567526
+
+UniProt ID,P83974
+Sequence,ACGQFWWKCGEGKPPCCANFACKIGLYLCIWSP
+PDB,
+Mass,3675.3049600000004
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>1000,15548530
+Kv1.2,IC50,volt,oocyte,,>1000,15548530
+Kv1.3,IC50,volt,oocyte,,>1000,15548530
+Kv2.1,Kd,volt,oocyte,,12200,17150181
+Kv2.1,IC50,volt,oocyte,,8050,23246579
+
+UniProt ID,P62520
+Sequence,DGECGGFWWKCGRGKPPCCKGYACSKTWGWCAVEAP
+PDB,2I1T
+Mass,3919.428560000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>1000,15084603
+Kv1.2,IC50,volt,oocyte,,>1000,15084603
+Kv1.3,IC50,volt,oocyte,,>1000,15084603
+Kv2.1,Kd,volt,oocyte,,430,17150181
+Kv2.1,IC50,volt,oocyte,,5000/95,17150181
+
+UniProt ID,P0C5X7
+Sequence,YCQKWMWTCDSERKCCEGYVCELWCKYNL
+PDB,
+Mass,3665.1954600000004
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>10000,17631373
+Kv1.2,IC50,volt,oocyte,,>10000,17631373
+Kv1.3,IC50,volt,oocyte,,>10000,17631373
+Kv1.4,IC50,volt,oocyte,,>10000,17631373
+Kv2.1,IC50,volt,oocyte,,1000/9,17631373
+Kv3.1,IC50,volt,oocyte,,>10000,17631373
+Kv4.1,IC50,volt,oocyte,,363,17631373
+Kv4.2,IC50,volt,oocyte,,1000/15,17631373
+
+UniProt ID,P0C247
+Sequence,ECRKMFGGCSVDSDCCAHLGCKPTLKYCAWDGTF
+PDB,2A2V
+Mass,3726.2363600000012
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,,>5000,17176080
+Kv1.2,Kd,volt,oocyte,,>5000,17176080
+Kv1.3,Kd,volt,oocyte,,>5000,17176080
+Kv1.4,Kd,volt,oocyte,,>5000,17176080
+Kv2.1,Kd,volt,oocyte,,760,17176080
+Kv3.1,Kd,volt,oocyte,,>5000,17176080
+Kv4.1,Kd,volt,oocyte,,5000/35,17176080
+Kv4.2,Kd,volt,oocyte,,5000/42,17176080
+
+UniProt ID,B1P1F7
+Sequence,ACREWLGGCSKDADCCAHLECRKKWPYHCVWDWTV
+PDB,
+Mass,4150.683260000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv,,patch,mammal,rat,1000/22,18581053
+Kv2.1,Kd,volt,oocyte,human,>10000,19463735
+
+UniProt ID,B1P1F5
+Sequence,ECTKLLGGCTKDSECCPHLGCRKKWPYHCGWDGTF
+PDB,
+Mass,3953.487160000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,,>10000,19409400
+Kv1.2,Kd,volt,oocyte,,>10000,19409400
+Kv1.3,Kd,volt,oocyte,,>10000,19409400
+Kv2.1,Kd,volt,oocyte,,3300,19409400
+
+UniProt ID,Q7YT39
+Sequence,GCLEFWWKCNPNDDKCCRPKLKCSKLFKLCNFSF
+PDB,"1LU8,1TYK"
+Mass,4095.817560000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,human,>88000,19955179
+Kv1.4,IC50,patch,mammal,human,>85000,19955179
+Kv11.1,IC50,patch,mammal,human,11000,19955179
+Kv11.2,IC50,patch,mammal,human,10900,19955179
+Kv11.3,IC50,patch,mammal,human,53000,19955179
+KvAP,,,,,>20000,15287735
+
+UniProt ID,P85117
+Sequence,YCQKWMWTCDSKRKCCEDMVCQLWCKKRL
+PDB,
+Mass,3697.389060000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,human,>200000,19955179
+Kv1.4,IC50,patch,mammal,human,>200000,19955179
+Kv11.1,IC50,patch,mammal,human,4200,19955179
+Kv11.2,IC50,patch,mammal,human,>200000,19955179
+Kv11.3,IC50,patch,mammal,human,>200000,19955179
+
+UniProt ID,P61409
+Sequence,YCQKWMWTCDEERKCCEGLVCRLWCKKKIEW
+PDB,
+Mass,3979.669960000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,human,>200000,19955179
+Kv1.4,IC50,patch,mammal,human,>200000,19955179
+Kv11.1,IC50,patch,mammal,human,4700,19955179
+Kv11.2,IC50,patch,mammal,human,>200000,19955179
+Kv11.3,IC50,patch,mammal,human,>200000,19955179
+
+UniProt ID,P61408
+Sequence,YCQKWLWTCDSERKCCEDMVCRLWCKKRL
+PDB,
+Mass,3707.369360000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,human,>200000,19955179
+Kv1.4,IC50,patch,mammal,human,>200000,19955179
+Kv11.1,IC50,patch,mammal,human,4800,19955179
+Kv11.2,IC50,patch,mammal,human,>200000,19955179
+Kv11.3,IC50,patch,mammal,human,>200000,19955179
+
+UniProt ID,P60980
+Sequence,ECGKFMWKCKNSNDCCKDLVCSSRWKWCVLASPF
+PDB,"1S6X,2N1N"
+Mass,3997.641860000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,human,>200000,19955179
+Kv1.4,IC50,patch,mammal,human,>200000,19955179
+Kv11.1,IC50,patch,mammal,human,7400,19955179
+Kv11.2,IC50,patch,mammal,human,45000,19955179
+Kv11.3,IC50,patch,mammal,human,55000,19955179
+KvAP,IC50,,,,25/50,15287735
+
+UniProt ID,P60590
+Sequence,DCVRFWGKCSQTSDCCPHLACKSKWPRNICVWDGSV
+PDB,1KOZ
+Mass,4109.674660000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,Kd,volt,oocyte,human,19000,9671721
+
+UniProt ID,P60273
+Sequence,YCQKWMWTCDEERKCCEGLVCRLWCKRIINM
+PDB,1LUP
+Mass,3922.6363600000004
+Mode,modifier
+
+UniProt ID,P56853
+Sequence,ECRYLFGGCKTTADCCKHLGCKFRDKYCAWDFTFS
+PDB,
+Mass,4098.64496
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,,,,,,7576642
+
+UniProt ID,P56852
+Sequence,ECRYLFGGCKTTSDCCKHLGCKFRDKYCAWDFTFS
+PDB,1D1H
+Mass,4114.64436
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>500,7576642
+Kv1.3,IC50,volt,oocyte,,>500,7576642
+Kv1.6,IC50,volt,oocyte,,>500,7576642
+Kv2.1,Kd,volt,oocyte,human,102,9136775
+Kv3.1,IC50,volt,oocyte,mouse,>500,7576642
+Kv4.2,IC50,volt,oocyte,rat,100,9136775
+Kv10.1,IC50,volt,oocyte,fly,>500,7576642
+Shaker-IR,IC50,volt,oocyte,fly,6000,9136775
+
+UniProt ID,P0C2P5
+Sequence,DCLGWFKGCDPDNDKCCEGYKCNRRDKWCKYKLW
+PDB,
+Mass,4171.699060000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KvAP,,,,,,15287735
+
+UniProt ID,P0C2P4
+Sequence,YCQKWMWTCDEERKCCEGLVCRLWCKKKIEEG
+PDB,
+Mass,3979.6241600000008
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KvAP,,,,,20000/30,15287735
+
+UniProt ID,P0C2L8
+Sequence,SPTCTGADRPCAACCPCCPGTSCKGPEPNGVSYCRND
+PDB,
+Mass,3714.0677800000003
+Mode,blocker
+
+UniProt ID,P82228
+Sequence,AICTGADRPCAACCPCCPGTSCKAESNGVSYCRKDEP
+PDB,1DL0
+Mass,3760.18018
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa1.1,IC50,patch,insect,cockroach,"2,3",18625007
+KCa1.1,IC50,patch,mammal,cockroach,240,18625007
+KCa1.1,IC50,patch,mammal,mouse,9776,18625007
+
+UniProt ID,P82227
+Sequence,TICTGADRPCAACCPCCPGTSCQGPESNGVVYCRNF
+PDB,
+Mass,3677.0927799999995
+Mode,blocker
+
+UniProt ID,P82226
+Sequence,TICTGADRPCAACCPCCPGTSCQGPEPNGVSYCRND
+PDB,
+Mass,3642.98888
+Mode,blocker
+
+UniProt ID,B3EWN3
+Sequence,ACKGLFVTCTPGKDECCPNHVCSSKHKWCKYKI
+PDB,
+Mass,3708.336360000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,,,,,175000/25,US20110065647
+
+UniProt ID,P68425
+Sequence,IDTCRLPSDRGRCKASFERWYFNGRTCAKFIYGGCGGNGNKFPTQEACMKRCAKA
+PDB,2JOT
+Mass,6166.004559999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,patch,mammal,rat,"11,6",18923708
+Kv1.1,IC50,volt,oocyte,,2570000,18923708
+Kv1.1,IC50,volt,oocyte,,5000/78,18923708
+Kv1.2,IC50,volt,oocyte,,5000/10,18923708
+Kv1.3,IC50,volt,oocyte,,5000/28,18923708
+
+UniProt ID,P61792
+Sequence,DDCGGLFSGCDSNADCCEGYVCRLWCKYKL
+PDB,
+Mass,3318.658760000001
+Mode,undefined
+
+UniProt ID,P61791
+Sequence,DDCGTLFSGCDTSKDCCEGYVCHLWCKYK
+PDB,
+Mass,3274.6027600000007
+Mode,undefined
+
+UniProt ID,P58427
+Sequence,ECGTLFSGCSTHADCCEGFICKLWCRYERTW
+PDB,
+Mass,3599.0345600000005
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.4,IC50,volt,oocyte,rat,>2000,9058605
+Kv4.2,IC50,volt,oocyte,rat,67,9058605
+
+UniProt ID,P58426
+Sequence,DDCGKLFSGCDTNADCCEGYVCRLWCKLDW
+PDB,1EMX
+Mass,3412.7748600000014
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.4,IC50,volt,oocyte,rat,>2000,9058605
+Kv1.4,IC50,volt,oocyte,ferret,>2000,15733564
+Kv2.1,IC50,volt,oocyte,mouse,>5000,15733564
+Kv3.4,IC50,volt,oocyte,mouse,>2000,15733564
+Kv4.1,IC50,volt,oocyte,mouse,2000/30,15733564
+Kv4.2,IC50,volt,oocyte,rat,100,9058605
+Kv4.2,IC50,volt,oocyte,rat,2000/30,15733564
+Kv4.3,IC50,volt,oocyte,rat,2000/30,15733564
+Kv4.3,Kd,volt,oocyte,rat,2300,19357248
+
+UniProt ID,P58425
+Sequence,DCGTIWHYCGTDQSECCEGWKCSRQLCKYVIDW
+PDB,
+Mass,3910.3289600000007
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv4.2,IC50,volt,oocyte,rat,100,9058605
+
+UniProt ID,P60993
+Sequence,ECRYFWGECNDEMVCCEHLVCKEKWPITYKICVWDRTF
+PDB,
+Mass,4757.45836
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,300/10,12065754
+Kv1.2,IC50,patch,mammal,mouse,300/1,12065754
+Kv1.3,IC50,patch,mammal,mouse,300/6,12065754
+Kv1.4,IC50,patch,mammal,mouse,300/6,12065754
+Kv1.5,IC50,patch,mammal,mouse,300/1,12065754
+Kv1.6,IC50,patch,mammal,mouse,300/13,12065754
+Kv2.1,IC50,patch,mammal,mouse,300/18,12065754
+Kv2.2,IC50,patch,mammal,mouse,>300,12065754
+Kv3.4,IC50,patch,mammal,mouse,300/2,12065754
+Kv4.1,IC50,patch,mammal,mouse,>100,12065754
+Kv4.2,IC50,patch,mammal,mouse,>100,12065754
+Kv4.3,IC50,patch,mammal,mouse,>100,12065754
+Kv7.1,IC50,patch,mammal,mouse,300/4,12065754
+
+UniProt ID,P60992
+Sequence,ECRYLFGGCSSTSDCCKHLSCRSDWKYCAWDGTFS
+PDB,2N6O
+Mass,3996.379160000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,300/12,12065754
+Kv1.2,IC50,patch,mammal,mouse,300/4,12065754
+Kv1.3,IC50,patch,mammal,mouse,300/3,12065754
+Kv1.4,IC50,patch,mammal,mouse,300/4,12065754
+Kv1.5,IC50,patch,mammal,mouse,300/2,12065754
+Kv1.6,IC50,patch,mammal,mouse,300/1,12065754
+Kv2.1,IC50,patch,mammal,mouse,100/23,12065754
+Kv2.2,IC50,patch,mammal,mouse,"100/19,7",12065754
+Kv3.4,IC50,patch,mammal,mouse,300/4,12065754
+Kv4.1,IC50,patch,mammal,mouse,280,12065754
+Kv4.2,IC50,patch,mammal,mouse,300/39,12065754
+Kv4.3,IC50,patch,mammal,mouse,300/43,12065754
+Kv7.1,IC50,patch,mammal,mouse,300/8,12065754
+
+UniProt ID,P0DOC5
+Sequence,ECRYLFGGCKTTADCCKHLGCRTDLYYCAWDGTF
+PDB,
+Mass,3894.3730600000004
+Mode,modifier
+
+UniProt ID,C0HL38
+Sequence,GCNPDCTGIQCGWPRCPGGQNPVMDKCVSCCPFCPPKSAQG
+PDB,
+Mass,4242.8674
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv,,patch,insect,cockroach,1000/25,28497266
+
+UniProt ID,P61231
+Sequence,YCQKWMWTCDEERKCCEGLVCRLWCKRIINM
+PDB,
+Mass,3921.6516600000004
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>5000,10051143
+Kv1.2,IC50,volt,oocyte,,>5000,10051143
+Kv1.3,IC50,volt,oocyte,,>5000,10051143
+Kv1.4,IC50,volt,oocyte,,>5000,10051143
+Kv1.5,IC50,patch,mammal,,>5000,10051143
+Kv2.1,IC50,patch,mammal,,500/8,10051143
+Kv2.2,IC50,patch,mammal,,500/11,10051143
+Kv3.1,IC50,volt,oocyte,,>1000,10051143
+Kv3.2,IC50,volt,oocyte,,>1000,10051143
+Kv3.4,IC50,volt,oocyte,,>1000,10051143
+Kv4.1,IC50,patch,mammal,mouse,300/200,10051143
+Kv4.2,IC50,patch,mammal,rat,34,10051143
+Kv4.3,IC50,patch,mammal,rat,71,10051143
+Kir2.1,IC50,volt,oocyte,,>1000,10051143
+K2p2.1,IC50,patch,mammal,,>1000,10051143
+
+UniProt ID,P61230
+Sequence,YCQKWMWTCDSARKCCEGLVCRLWCKKII
+PDB,1V7F
+Mass,3548.267860000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>5000,10051143
+Kv1.2,IC50,volt,oocyte,,>5000,10051143
+Kv1.3,IC50,volt,oocyte,,>5000,10051143
+Kv1.4,IC50,volt,oocyte,,>5000,10051143
+Kv1.5,IC50,patch,mammal,,>5000,10051143
+Kv2.1,IC50,patch,mammal,,500/6,10051143
+Kv2.2,IC50,patch,mammal,,500/16,10051143
+Kv3.1,IC50,volt,oocyte,,>1000,10051143
+Kv3.2,IC50,volt,oocyte,,>1000,10051143
+Kv3.4,IC50,volt,oocyte,,>1000,10051143
+Kv4.1,IC50,patch,mammal,mouse,250/39,10051143
+Kv4.2,IC50,patch,mammal,rat,5,10051143
+Kv4.3,IC50,patch,mammal,rat,28,10051143
+Kv7.1,IC50,patch,mammal,,>300,10051143
+Kv11.1,IC50,patch,mammal,,>300,10051143
+Kir2.1,IC50,volt,oocyte,,>1000,10051143
+K2p2.1,IC50,patch,mammal,,>1000,10051143
+
+UniProt ID,O76200
+Sequence,AECAAVYERCGKGYKRCCEERPCKCNIVMDNCTCKKFISE
+PDB,
+Mass,4575.267780000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv,,volt,mammal,,,12565753
+
+UniProt ID,P0C246
+Sequence,ECRWYLGGCKEDSECCEHLQCHSYWEWCLWDGSF
+PDB,
+Mass,4182.54836
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,IC50,volt,oocyte,,"20800/8,2",17093448
+
+UniProt ID,P0C245
+Sequence,GACRWFLGGCKSTSDCCEHLSCKMGLDYCAWDGTF
+PDB,
+Mass,3845.3156600000007
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,IC50,volt,oocyte,,"23700/41,4",17093448
+
+UniProt ID,P0C244
+Sequence,SECRWFMGGCDSTLDCCKHLSCKMGLYYCAWDGTF
+PDB,
+Mass,4011.5535600000007
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,IC50,volt,oocyte,,7400,17093448
+
+UniProt ID,B3EWN1
+Sequence,YCQEFLWTCDEERKCCGDMVCRLWCKKRL
+PDB,
+Mass,3639.247860000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv11.1,,,,,10000/40,US20110065647
+
+UniProt ID,P60991
+Sequence,DCTRMFGACRRDSDCCPHLGCKPTSKYCAWDGTI
+PDB,
+Mass,3791.271060000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,300/8,12065754
+Kv1.2,IC50,patch,mammal,mouse,300/10,12065754
+Kv1.3,IC50,patch,mammal,mouse,300/9,12065754
+Kv1.4,IC50,patch,mammal,mouse,400/4,12065754
+Kv1.5,IC50,patch,mammal,mouse,>300,12065754
+Kv1.6,IC50,patch,mammal,mouse,>300,12065754
+Kv2.1,IC50,patch,mammal,mouse,"12,7",12065754
+Kv2.1,IC50,patch,mammal,mouse,"7,2",12065754
+Kv2.2,IC50,patch,mammal,mouse,"21,4",12065754
+Kv3.4,IC50,patch,mammal,mouse,300/4,12065754
+Kv4.1,IC50,patch,mammal,mouse,>100,12065754
+Kv4.2,IC50,patch,mammal,mouse,"1,2",12065754
+Kv4.3,IC50,patch,mammal,mouse,>100,12065754
+Kv7.1,IC50,patch,mammal,mouse,300/19,12065754
+
+UniProt ID,P56855
+Sequence,TCRYLFGGCKTTADCCKHLACRSDGKYCAWDGTF
+PDB,1LA4
+Mass,3776.237960000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,Kd,volt,oocyte,,2700,15051809
+
+UniProt ID,P83747
+Sequence,DDCLGMFSSCDPNNDKCCPNRVCRVRDQWCKYKLW
+PDB,
+Mass,4193.721160000001
+Mode,undefined
+
+UniProt ID,P83746
+Sequence,DDCLGMFSSCDPKNDKCCPNRVCRSRDQWCKYKLW
+PDB,
+Mass,4195.73706
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv4.2,IC50,patch,mammal,human,800,15208026
+
+UniProt ID,P83745
+Sequence,AACLGMFESCDPNNDKCCPNRECNRKHKWCKYKLW
+PDB,
+Mass,4186.775460000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv4.2,IC50,patch,mammal,human,193,15208026
+
+UniProt ID,P83480
+Sequence,ECRYWLGGCSAGQTCCKHLVCSRRHGWCVWDGTFS
+PDB,2M9L
+Mass,3987.46686
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,human,730/6,12475222
+Kv1.3,IC50,volt,oocyte,human,730/40,12475222
+Kv1.5,IC50,volt,oocyte,human,730/7,12475222
+Kv2.1,IC50,volt,oocyte,human,411,12475222
+Kv2.1,IC50,volt,oocyte,human,730/60,12475222
+
+UniProt ID,P83476
+Sequence,YCQKWMWTCDSERKCCEGMVCRLWCKKKLW
+PDB,"2N9T,5O0U,5TCZ"
+Mass,3826.550360000001
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,human,>460,12475222
+Kv1.3,IC50,volt,oocyte,human,460/2,12475222
+Kv1.5,IC50,volt,oocyte,human,460/-2,12475222
+Kv2.1,IC50,volt,oocyte,human,460/5,12475222
+
+UniProt ID,C0HJD9
+Sequence,RCKTCSKGRCRPKPNCG
+PDB,
+Mass,1890.2013400000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,672,30275388
+Kv1.2,IC50,volt,oocyte,rat,167,30275388
+Kv1.3,IC50,volt,oocyte,rat,3000/20,30275388
+Kv1.4,IC50,volt,oocyte,rat,>3000,30275388
+Kv1.5,IC50,volt,oocyte,rat,>3000,30275388
+Kv1.6,IC50,volt,oocyte,rat,116,30275388
+Kv2.1,IC50,volt,oocyte,rat,>3000,30275388
+Kv3.1,IC50,volt,oocyte,rat,>3000,30275388
+Kv4.2,IC50,volt,oocyte,rat,>3000,30275388
+Kv4.3,IC50,volt,oocyte,rat,>3000,30275388
+Kv11.1,IC50,volt,oocyte,human,>3000,30275388
+Shaker-IR,IC50,volt,oocyte,fly,3000/15,30275388
+
+UniProt ID,P81897
+Sequence,GCKDNFSANTCKHVKANNNCGSQKYATNCAKTCGKC
+PDB,
+Mass,3807.2095600000002
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,22,15581681
+
+UniProt ID,P0DMW7
+Sequence,DASSFCQLPAVVGKCRGYFPRFYYNTEAGKCQQFIYGGCGGNRNNFETVEDCRATCHSH
+PDB,
+Mass,6599.230759999999
+Mode,undefined
+
+UniProt ID,P0DMW6
+Sequence,DANSFCQLPAVVGKCRGYFPRYYYNTEAGKCQQFIYGGCGGNRNNFETVEDCRATCHSH
+PDB,
+Mass,6642.255759999998
+Mode,undefined
+
+UniProt ID,E3P6S4
+Sequence,GIPCRCDKNSDELNGEQSYMNGNCGDGWKKCRSVNAIFNCCQRV
+PDB,
+Mass,4908.411159999999
+Mode,undefined
+
+UniProt ID,Q0EAE5
+Sequence,ACKDYLPKSECTQFRCRTSMKYKYTNCKKTCGTC
+PDB,
+Mass,3984.598060000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,91,16905168
+
+UniProt ID,Q9TWG1
+Sequence,ACKDNFAAATCKHVKENKNCGSQKYATNCAKTCGKC
+PDB,
+Mass,3834.3190600000007
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,rat,140,7559645
+
+UniProt ID,Q9TWG0
+Sequence,INKDCLLPMDVGRCRASHPRYYYNSSSKRCEKFIYGGCRGNANNFHTLEECEKVCGVR
+PDB,
+Mass,6684.528759999999
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,rat,2800,7559645
+
+UniProt ID,Q9TWF9
+Sequence,INKDCLLPMDVGRCRARHPRYYYNSSSRRCEKFIYGGCRGNANNFITKKECEKVCGVR
+PDB,
+Mass,6771.74306
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,rat,1100,7559645
+
+UniProt ID,Q9TWF8
+Sequence,INGDCELPKVVGRCRARFPRYYYNLSSRRCEKFIYGGCGGNANNFHTLEECEKVCGVRS
+PDB,
+Mass,6731.570159999999
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,rat,1300,7559645
+
+UniProt ID,P59084
+Sequence,AAPCFCPGKPDRGDLWILRGTCPGGYGYTSNCYKWPNICCYPH
+PDB,
+Mass,4776.4052599999995
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv3.1,IC50,volt,mammal,,500/52,11207363
+Kv3.4,IC50,volt,mammal,,56,9506974
+Kv3.4,IC50,volt,mammal,,750,16177043
+
+UniProt ID,P11494
+Sequence,AAPCFCSGKPGRGDLWILRGTCPGGYGYTSNCYKWPNICCYPH
+PDB,"1BDS,2BDS"
+Mass,4708.330059999999
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>10000,9506974
+Kv1.2,IC50,volt,oocyte,,10000/19,9506974
+Kv1.3,IC50,volt,oocyte,,10000/17,9506974
+Kv1.4,IC50,volt,oocyte,,>10000,9506974
+Kv1.5,IC50,volt,oocyte,,>10000,9506974
+Kv2.1,IC50,volt,oocyte,,>10000,9506974
+Kv2.2,IC50,volt,oocyte,,>10000,9506974
+Kv3.1,IC50,volt,oocyte,,10000/22,9506974
+Kv3.2,IC50,volt,oocyte,,>10000,9506974
+Kv3.3,IC50,volt,oocyte,,>10000,9506974
+Kv3.4,IC50,volt,oocyte,,10000/94,9506974
+Kv3.4,IC50,volt,mammal,,47,9506974
+Kv4.2,IC50,volt,oocyte,,>10000,9506974
+Kv4.3,IC50,volt,oocyte,,>10000,9506974
+Kir1.1,IC50,volt,oocyte,,>10000,9506974
+Kir2.1,IC50,volt,oocyte,,>10000,9506974
+Kir2.2,IC50,volt,oocyte,,>10000,9506974
+
+UniProt ID,P10280
+Sequence,INGDCELPKVVGPCRARFPRYYYNSSSKRCEKFIYGGCGGNANNFHTLEECEKVCGVRSVGR
+PDB,
+Mass,6930.77676
+Mode,undefined
+
+UniProt ID,P69930
+Sequence,ALLSCRCEGKTEYGDKWLFHGGCPNNYGYNYKCFMKPGAVCCYPQN
+PDB,
+Mass,5240.896059999998
+Mode,undefined
+
+UniProt ID,P86862
+Sequence,INSICLLPKKQGFCRARFPRFYYNSSTRRCEMFYYGGCGGNANNFNTLEECEKVCLGYGEAWKAP
+PDB,
+Mass,7468.450060000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,>1000,21477583
+Kv1.1,IC50,volt,oocyte,rat,"0,9",21477583
+Kv1.2,IC50,volt,oocyte,rat,>1000,21477583
+Kv1.3,IC50,volt,oocyte,human,>1000,21477583
+Kv1.4,IC50,volt,oocyte,rat,>1000,21477583
+Kv1.5,IC50,volt,oocyte,rat,>1000,21477583
+Kv1.6,IC50,volt,oocyte,rat,>1000,21477583
+Kv2.1,IC50,volt,oocyte,rat,>1000,21477583
+Kv3.1,IC50,volt,oocyte,rat,>1000,21477583
+Kv4.2,IC50,volt,oocyte,rat,>1000,21477583
+Kv4.3,IC50,volt,oocyte,rat,>1000,21477583
+Kv11.1,IC50,volt,oocyte,human,>1000,21477583
+
+UniProt ID,P61542
+Sequence,GTACSCGNSKGIYWFYRPSCPTDRGYTGSCRYFLGTCCTPAD
+PDB,"1WXN,2MUB"
+Mass,4561.01816
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.4,IC50,patch,mammal,rat,>300,15044953
+Kv2.2,IC50,patch,mammal,rat,>300,15044953
+Kv3.1,IC50,patch,mammal,rat,>300,15044953
+Kv3.4,IC50,patch,mammal,rat,3000/38,15044953
+Kv4.1,IC50,patch,mammal,rat,>300,15044953
+Kv4.2,IC50,patch,mammal,rat,>300,15044953
+Kv4.3,IC50,patch,mammal,rat,>300,15044953
+Kv11.1,IC50,patch,mammal,rat,>300,15044953
+
+UniProt ID,P61541
+Sequence,GTTCYCGKTIGIYWFGTKTCPSNRGYTGSCGYFLGICCYPVD
+PDB,1WQK
+Mass,4552.134259999999
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,,>100,12815161
+Kv1.2,IC50,patch,mammal,,>100,12815161
+Kv1.3,IC50,patch,mammal,,>100,12815161
+Kv1.4,IC50,patch,mammal,,1000/35,12815161
+Kv1.5,IC50,patch,mammal,,>100,12815161
+Kv1.6,IC50,patch,mammal,,>100,12815161
+Kv2.1,IC50,patch,mammal,,>100,12815161
+Kv3.4,IC50,patch,mammal,,>100,12815161
+Kv4.2,IC50,patch,mammal,,>100,12815161
+Kv7.1,IC50,patch,mammal,,>100,12815161
+Kv7.2,IC50,patch,mammal,,>100,12815161
+Kv7.3,IC50,patch,mammal,,>100,12815161
+Kv10.1,IC50,patch,mammal,,>100,12815161
+Kv11.1,IC50,patch,mammal,,34,12815161
+Kv11.2,Kd,volt,oocyte,,>1000,17473056
+Kv12.3,IC50,patch,mammal,,>100,12815161
+
+UniProt ID,C0HL40
+Sequence,GTTCYCGKTIGIYWFGKYSCPTNRGYTGSCPYFLGICCYPVD
+PDB,
+Mass,4654.269959999999
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,human,>1600,28902151
+Kv1.3,IC50,volt,oocyte,rat,1600/27,28902151
+Kv1.4,IC50,volt,oocyte,human,1600/66,28902151
+Kv1.5,IC50,volt,oocyte,human,1600/17,28902151
+Kv2.1,IC50,volt,oocyte,human,1600/39,28902151
+Kv10.1,IC50,volt,oocyte,human,1100,28902151
+Kv11.1,IC50,volt,oocyte,human,>1600,28902151
+
+UniProt ID,P84919
+Sequence,GLPCDCHGHTGTYWLNYYSKCPKGYGYTGRCRYLVGSCCYK
+PDB,
+Mass,4669.25026
+Mode,undefined
+
+UniProt ID,C0HJC4
+Sequence,GCKGKYEECTRDSDCCDEKNRSGRKLRCLTQCDEGGCLKYRQCLFYGGLQ
+PDB,
+Mass,5718.431000000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,3000/54,23895459
+Kv1.2,IC50,volt,oocyte,rat,"172,59",23895459
+Kv1.3,IC50,volt,oocyte,human,"1006,68",23895459
+Kv1.4,IC50,volt,oocyte,rat,>3000,23895459
+Kv1.5,IC50,volt,oocyte,rat,>3000,23895459
+Kv1.6,IC50,volt,oocyte,rat,"2245,93",23895459
+Kv2.1,IC50,volt,oocyte,rat,>3000,23895459
+Kv3.1,IC50,volt,oocyte,human,>3000,23895459
+Kv4.2,IC50,volt,oocyte,rat,>3000,23895459
+Kv4.3,IC50,volt,oocyte,rat,>3000,23895459
+Kv11.1,IC50,volt,oocyte,human,>3000,23895459
+Shaker-IR,IC50,volt,oocyte,fly,"94,25",23895459
+
+UniProt ID,C0HJC3
+Sequence,ACKDGFPTATCQHAKLVGNCKNSQKYRANCAKTCGPC
+PDB,
+Mass,3912.4356600000006
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,"14,42",23466933
+Kv1.2,IC50,volt,oocyte,rat,"80,4",23466933
+Kv1.3,IC50,volt,oocyte,human,"13,12",23466933
+Kv1.4,IC50,volt,oocyte,rat,>3000,23466933
+Kv1.5,IC50,volt,oocyte,rat,>3000,23466933
+Kv1.6,IC50,volt,oocyte,rat,"7,76",23466933
+Kv2.1,IC50,volt,oocyte,rat,>3000,23466933
+Kv3.1,IC50,volt,oocyte,rat,>3000,23466933
+Kv4.2,IC50,volt,oocyte,rat,>3000,23466933
+Kv4.3,IC50,volt,oocyte,rat,>3000,23466933
+Kv11.1,IC50,volt,oocyte,human,>3000,23466933
+Shaker-IR,IC50,volt,oocyte,fly,"49,14",23466933
+
+UniProt ID,C0HJC2
+Sequence,ACIDRFPTGTCKHVKKGGSCKNSQKYRINCAKTCGLCH
+PDB,
+Mass,4151.79966
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,405,23466933
+Kv1.2,IC50,volt,oocyte,rat,"0,03",23466933
+Kv1.3,IC50,volt,oocyte,human,74,23466933
+Kv1.4,IC50,volt,oocyte,rat,>500,23466933
+Kv1.5,IC50,volt,oocyte,rat,>500,23466933
+Kv1.6,IC50,volt,oocyte,rat,"1,31",23466933
+Kv2.1,IC50,volt,oocyte,rat,>500,23466933
+Kv3.1,IC50,volt,oocyte,rat,>500,23466933
+Kv4.2,IC50,volt,oocyte,rat,>500,23466933
+Kv4.3,IC50,volt,oocyte,rat,>500,23466933
+Kv11.1,IC50,volt,oocyte,human,>500,23466933
+Shaker-IR,IC50,volt,oocyte,fly,"247,69",23466933
+
+UniProt ID,P86465
+Sequence,NIVDVPCRDDYYRDSSGNGVYDQLGGCGAA
+PDB,
+Mass,3178.32162
+Mode,undefined
+
+UniProt ID,P29186
+Sequence,VCRDWFKETACRHAKSLGNCRTSQKYRANCAKTCELC
+PDB,1BGK
+Mass,4275.85536
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,Kd,volt,oocyte,human,6,9063464
+Kv1.2,Kd,volt,oocyte,human,15,9063464
+Kv1.3,Kd,volt,oocyte,human,10,9063464
+Kv3.1,Kd,volt,oocyte,human,>125,9063464
+KCa3.1,Kd,patch,mammal,human,172,10419508
+
+UniProt ID,G0W2I1
+Sequence,GLPCGCRGKSGIYWFSGKCPGGYGYTTYCSYVIGLCCVK
+PDB,
+Mass,4142.78166
+Mode,undefined
+
+UniProt ID,G0W2I0
+Sequence,GTACWCGQTKGVYWLWKISCPSGYGYTGYCGYFMGLCCYPAGS
+PDB,
+Mass,4684.316459999999
+Mode,undefined
+
+UniProt ID,G0W2H9
+Sequence,GTPCWCGQTKGVYWYWMRKCPSGYGYTGNCYHFMGRCCYPAGS
+PDB,
+Mass,4921.5585599999995
+Mode,undefined
+
+UniProt ID,G0W2H8
+Sequence,GTPCWCGKTVGIYWFALYSCPGGHGYTGHCGQFMGVCCYPADP
+PDB,
+Mass,4586.174759999999
+Mode,undefined
+
+UniProt ID,G0W2H7
+Sequence,PCFCGKTVGIYWFALYSCPGGYGYTGHCGHFMGVCCYPANP
+PDB,
+Mass,4423.041659999999
+Mode,undefined
+
+UniProt ID,E2S064
+Sequence,RTCIDTIPKSRCTAFQCKNSMKYRLSFCRKTCGTC
+PDB,
+Mass,4045.730960000001
+Mode,undefined
+
+UniProt ID,O16846
+Sequence,RTCKDLIPVSECTDIRCRTSMKYRLNLCRKTCGSC
+PDB,
+Mass,4048.7320600000003
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Ki,volt,oocyte,fly,1,26627718
+Kv1,IC50,radio,mammal,rat,"3,2",9298966
+Kv1.2,IC50,patch,mammal,rat,10,9298966
+Kv1.2,Ki,volt,oocyte,human,"2,5",26627718
+Kv1.3,Ki,volt,oocyte,human,"3,1",26627718
+
+UniProt ID,C0HK75
+Sequence,ALPCRCEGKTEYGDKWIFHGGCPNDYGYNDRCFMKPGSVCCYPKYE
+PDB,
+Mass,5296.917059999999
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>5000,29414882
+Kv1.2,IC50,volt,oocyte,,>5000,29414882
+Kv1.3,IC50,volt,oocyte,,>5000,29414882
+Kv1.4,IC50,volt,oocyte,,>5000,29414882
+Kv1.6,IC50,volt,oocyte,,>5000,29414882
+Kv2.1,IC50,volt,oocyte,,>5000,29414882
+Kv3.1,IC50,volt,oocyte,,>5000,29414882
+Kv4.2,IC50,volt,oocyte,,>5000,29414882
+Kv10.1,IC50,volt,oocyte,,>5000,29414882
+Shaker-IR,IC50,volt,oocyte,,>5000,29414882
+
+UniProt ID,C0HJB1
+Sequence,CASQGQKCKTKSDCCNGMWCAGTRGHTCYKPK
+PDB,
+Mass,3475.9422600000007
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,patch,mammal,rat,3500,23764262
+
+UniProt ID,B1B5I8
+Sequence,TEEMPALCHLQPDVPKCRGYFPRYYYNPEVGKCEQFIYGGCGGNKNNFVSFEACRATCIIPL
+PDB,
+Mass,7033.992159999998
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,radio,mammal,rat,650,18243416
+
+UniProt ID,P29187
+Sequence,RSCIDTIPKSRCTAFQCKHSMKYRLSFCRKTCGTC
+PDB,"1BEI,1C2U,1ROO,2K9E,4LFQ,4LFS,4Z7P,5I5A,5I5B,5I5C"
+Mass,4054.741360000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,Ki,volt,oocyte,fly,2,26627718
+Kv1,IC50,radio,mammal,rat,"0,02",7660365
+Kv1.1,IC50,volt,oocyte,mouse,"0,016",9830012
+Kv1.2,IC50,volt,oocyte,rat,9,9830012
+Kv1.3,IC50,volt,oocyte,mouse,"0,011",9830012
+Kv1.4,IC50,volt,oocyte,mouse,"0,312",9830012
+Kv1.5,IC50,volt,oocyte,human,>100,9830012
+Kv1.6,IC50,volt,oocyte,human,"0,165",9830012
+Kv1.7,IC50,volt,oocyte,mouse,"11,5",9830012
+Kv2.1,IC50,patch,mammal,human,>1000,15709110
+Kv3.1,IC50,volt,oocyte,mouse,>100,9830012
+Kv3.2,IC50,patch,mammal,human,6,15709110
+Kv3.4,IC50,volt,oocyte,rat,>100,9830012
+KCa3.1,IC50,volt,oocyte,human,28,9830012
+KCa3.1,Kd,patch,mammal,human,172,10419508
+KcsA-Shaker,Ki,volt,oocyte,,50,26627718
+
+UniProt ID,Q9U3Z3
+Sequence,CRAEGTYCENDSQCCLNECCWGGCGHPCRHP
+PDB,
+Mass,3571.74208
+Mode,activator
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa1.1,EC50,patch,mammal,rat,"0,7",12547831
+
+UniProt ID,P0C6S3
+Sequence,RWDVDQCIYYCLNGVVGYSYTECQTMCT
+PDB,
+Mass,3310.661339999999
+Mode,undefined
+
+UniProt ID,P0C6S2
+Sequence,GGVGRCIYNCMNSGGGLNFIQCKTMCY
+PDB,
+Mass,2886.315240000001
+Mode,undefined
+
+UniProt ID,B3SVF1
+Sequence,GTYLYPFSYYRLWRYFTRFLHKQPYYYVHI
+PDB,
+Mass,4042.6132
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,,>30000,18505731
+Kv1.3,IC50,volt,oocyte,,>50000,18505731
+Kv1.4,IC50,volt,oocyte,,>50000,18505731
+Kv1.5,IC50,volt,oocyte,,>50000,18505731
+Kv1.6,IC50,volt,oocyte,,8800,18505731
+
+UniProt ID,P0C1X1
+Sequence,APELVVTATTNCCGYNPMTICPPCMCTYSCPPKRKP
+PDB,
+Mass,4046.632600000002
+Mode,undefined
+
+UniProt ID,P84713
+Sequence,FHGGSWYRFPWGY
+PDB,
+Mass,1658.7948999999999
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv,,patch,mammal,rat,,15081394
+
+UniProt ID,Q0N4U8
+Sequence,FPRPRICNLACRAGIGHKYPFCHCR
+PDB,"2FQC,2NAV,2NAW"
+Mass,2911.43654
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,,>1000,16819832
+Kv1.2,IC50,volt,oocyte,,>1000,16819832
+Kv1.3,IC50,volt,oocyte,,>1000,16819832
+Kv1.4,IC50,volt,oocyte,,>1000,16819832
+Kv1.5,IC50,volt,oocyte,,>1000,16819832
+Kv1.6,IC50,volt,oocyte,,1590,16819832
+Kv2.1,IC50,volt,oocyte,,>2000,16819832
+Kv3.4,IC50,volt,oocyte,,>2000,16819832
+
+UniProt ID,B3SVF0
+Sequence,ARFLHPFQYYTLYRYLTRFLHRYPIYYIRY
+PDB,
+Mass,4094.735799999999
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,,2000,18505731
+Kv1.3,IC50,volt,oocyte,,>50000,18505731
+Kv1.4,IC50,volt,oocyte,,>50000,18505731
+Kv1.5,IC50,volt,oocyte,,>5000,18505731
+Kv1.6,IC50,volt,oocyte,,170,18505731
+
+UniProt ID,P56633
+Sequence,CRIPNQKCFQHLDDCCSRKCNRFNKCV
+PDB,"1AV3,1KCP,2N8E"
+Mass,3269.7287600000004
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,60,12074021
+Kv1.1,IC50,volt,oocyte,rat,>1000,12074021
+Kv1.4,IC50,volt,oocyte,rat,>1000,12074021
+
+UniProt ID,P0C2C6
+Sequence,DCCGVKLEMCHPCLCDNSCKKSGK
+PDB,
+Mass,2601.0718000000006
+Mode,undefined
+
+UniProt ID,P69769
+Sequence,LPSCCSLNLRLCPVPACKRNPCCT
+PDB,
+Mass,2649.100860000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,1210,12399472
+Kv1.1,IC50,volt,oocyte,,>10000,12399472
+Kv1.2,IC50,volt,oocyte,rat,335,15208025
+Kv1.2,IC50,volt,oocyte,human,280,15208025
+Kv1.3,IC50,volt,oocyte,,>10000,12399472
+Kv1.4,IC50,volt,oocyte,,>10000,12399472
+Kv1.5,IC50,volt,oocyte,rat,>5000,15208025
+Kv1.6,IC50,volt,oocyte,rat,5000/10,15208025
+Kv2.1,IC50,volt,oocyte,,>10000,12399472
+Kv3.4,IC50,volt,oocyte,,>10000,12399472
+Kv4.2,IC50,volt,oocyte,,>10000,12399472
+Kv10.1,IC50,volt,oocyte,rat,>10000,12399472
+Kv11.1,IC50,volt,oocyte,human,>10000,12399472
+KCa1.1,IC50,volt,oocyte,human,100000/0,20220134
+Kv7.2/Kv7.3,IC50,volt,oocyte,human,100000/0,20220134
+Kv1.2/Kv1.1,IC50,volt,oocyte,human,2800,20220134
+Kv1.2/Kv1.5,IC50,volt,oocyte,human,2760,20220134
+Kv1.2/Kv1.6,IC50,volt,oocyte,human,7740,20220134
+Kv1.2/Kv1.7,IC50,volt,oocyte,human,680,20220134
+TSha1,IC50,volt,oocyte,trout,65,12399472
+
+UniProt ID,P0CG45
+Sequence,LPPCCTPPKKHCPAPACKYKPCCKS
+PDB,
+Mass,2807.2545600000017
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,~4000,20220134
+Kv1.2,IC50,volt,oocyte,human,33,20220134
+Kv1.3,IC50,volt,oocyte,human,~10000,20220134
+Kv1.4,IC50,volt,oocyte,human,70000/0,20220134
+Kv1.5,IC50,volt,oocyte,human,~70000,20220134
+Kv1.6,IC50,volt,oocyte,human,~8000,20220134
+KCa1.1,IC50,volt,oocyte,human,70000/0,20220134
+Kv7.2/Kv7.3,IC50,volt,oocyte,human,70000/0,20220134
+Kv1.2/Kv1.1,IC50,volt,oocyte,human,12,20220134
+Kv1.2/Kv1.5,IC50,volt,oocyte,human,47,20220134
+Kv1.2/Kv1.6,IC50,volt,oocyte,human,24,20220134
+Kv1.2/Kv1.7,IC50,volt,oocyte,human,3150,20220134
+
+UniProt ID,P0C615
+Sequence,CRTEGMSCEENQQCCWRSCCRGECEAPCRFGP
+PDB,
+Mass,3739.0550799999996
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,volt,oocyte,rat,640/66,20403399
+Kv1.3,IC50,volt,oocyte,rat,>640,20403399
+Kv1.6,IC50,volt,oocyte,human,640/58,20403399
+
+UniProt ID,P0C829
+Sequence,QKELVPSVITTCCGYDPGTMCPPCRCTNSCPTKPKKPGRRND
+PDB,
+Mass,4658.2766
+Mode,undefined
+
+UniProt ID,P0C828
+Sequence,QKSLVPSVITTCCGYDPGTMCPPCRCTNSC
+PDB,
+Mass,3195.648000000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,,volt,oocyte,fly,,9819194
+
+UniProt ID,P0C1X2
+Sequence,KDRPSLCDLPADSGSGTKAEKRIYYNSARKQCLRFDYTGQGGNENNFRRTYDCQRTCLYT
+PDB,"1Y62,2CA7"
+Mass,6928.59554
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Shaker,IC50,volt,oocyte,fly,502,15833744
+Kv1.1,IC50,volt,oocyte,human,>20000,22438204
+Kv1.2,IC50,volt,oocyte,human,3400,22438204
+Kv1.3,IC50,volt,oocyte,human,10000/0,22438204
+Kv1.4,IC50,volt,oocyte,human,>100000,22438204
+Kv1.5,IC50,volt,oocyte,human,>50000,22438204
+Kv1.6,IC50,volt,oocyte,human,10000/0,22438204
+Kv1.7,IC50,patch,mammal,mouse,439,22438204
+Kv2.1,IC50,volt,oocyte,human,10000/0,22438204
+Kv2.2,IC50,volt,oocyte,human,10000/0,22438204
+Kv3.1,IC50,volt,oocyte,human,10000/0,22438204
+Kv3.2,IC50,volt,oocyte,human,10000/0,22438204
+Kv3.4,IC50,volt,oocyte,human,10000/0,22438204
+Kv4.2,IC50,volt,oocyte,human,10000/0,22438204
+Kv10.1,IC50,volt,oocyte,rat,10000/0,22438204
+Kv10.1,IC50,volt,oocyte,rat,>30000,22438204
+KCa1.1,IC50,patch,mammal,bovine,10000/0,22438204
+KCa1.1,IC50,patch,mammal,mouse,10000/0,22438204
+
+UniProt ID,P83047
+Sequence,GDCPWKPWC
+PDB,1NXN
+Mass,1088.2202200000004
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,radio,mammal,human,>600000,12646193
+Kv1.2,IC50,radio,mammal,human,>600000,12646193
+
+UniProt ID,P84704
+Sequence,GGLGRCIYNCMNSGGGLSFIQCKTMCY
+PDB,
+Mass,2873.3164400000005
+Mode,undefined
+
+UniProt ID,Q7YZS9
+Sequence,SRCFPPGIYCTPYLPCCWGICCGTCRNVCHLRI
+PDB,1ZJS
+Mass,3727.4206800000006
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,volt,oocyte,rat,1590,12893060
+Kv1.2,IC50,volt,oocyte,human,>2000,12893060
+Kv1.3,IC50,volt,oocyte,rat,2090,12893060
+Kv11.1,IC50,volt,oocyte,human,>2000,12893060
+Kir2.1,IC50,volt,oocyte,human,>2000,12893060
+
+UniProt ID,A0A016UNP9
+Sequence,CADEKGYDCSRHKVNGDCDNDDKLLEMGYYCPVTCGFCEP
+PDB,2MD0
+Mass,4488.874859999999
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,>1500,24891519
+Kv1.3,IC50,patch,mammal,human,266,24891519
+
+UniProt ID,Q589G4
+Sequence,VSFCLLPIVPGPCTQYVIRYAFQPSISACRRFTFGGCEGNDNNFMTRRDCEHYCEELL
+PDB,
+Mass,6663.543659999999
+Mode,undefined
+
+UniProt ID,P56587
+Sequence,ALCNCNRIIIPHMCWKKCGKK
+PDB,1TER
+Mass,2455.0309400000006
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kir1.1,Kd,volt,oocyte,,2,9748337
+Kir2.1,Kd,volt,oocyte,,>1000,9748337
+Kir3.1/Kir3.4,Kd,volt,oocyte,,"8,6",9748337
+
+UniProt ID,P01500
+Sequence,CNCKAPETALCARRCQQH
+PDB,
+Mass,2027.2960400000002
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+KCa2.1,IC50,volt,oocyte,human,196,11212219
+KCa2.1,Kd,radio,oocyte,human,"0,39",11212219
+KCa2.2,IC50,volt,oocyte,rat,"0,024",11212219
+KCa2.2,Kd,radio,oocyte,rat,"0,004",11212219
+KCa2.3,IC50,volt,oocyte,rat,4,11212219
+KCa2.3,Kd,radio,oocyte,rat,"0,011",11212219
+Kir3.1/Kir3.4,Kd,volt,oocyte,,1000/20,9748337
+
+UniProt ID,P01499
+Sequence,IKCNCKRHVIKPHICRKICGKN
+PDB,
+Mass,2671.2128400000006
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,volt,mammal,rat,37,2449637
+Kir3.1/Kir3.4,Kd,volt,oocyte,,1000/30,9748337
+
+UniProt ID,A0A0J9XQE3
+Sequence,CEDLNAHCEMWQQLGHCQYSPKYMGHYCKKACGLC
+PDB,2MCR
+Mass,4073.62786
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.3,IC50,patch,mammal,human,6900,24891519
+
+UniProt ID,Q91055
+Sequence,EASPKLPGLMTSNPDQQTEITDKHNNLRRIVEPTASNMLKMTWSNKIAQNAQRSANQCTLEHTSKEERTIDGVECGENLFFSSAPYTWSYAIQNWFDERKYFRFNYGPTAQNVMIGHYTQVVWYRSYELGCAIAYCPDQPTYKYYQVCQYCPGGNIRSRKYTPYSIGPPCGDCPDACDNGLCTNPCKQNDVYNNCPDLKKQVGCGHPIMKDCMATCKCLTEIK
+PDB,
+Mass,25388.50776000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv,IC50,patch,mammal,rat,,8071987
+
+UniProt ID,O15263
+Sequence,GIGDPVTCLKSGAICHPVFCPRRYKQIGTCGLPGTKCCKKP
+PDB,"1E4Q,1FD3,1FD4,1FQQ"
+Mass,4328.141860000001
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.2,IC50,patch,mammal,human,1000/16,25238780
+Kv1.3,IC50,patch,mammal,human,"0,022",25238780
+Kv7.1,IC50,patch,mammal,human,1000/12,25238780
+KCa1.1,EC50,patch,mammal,human,"1,4",23734009
+
+UniProt ID,Q53I06
+Sequence,GFGCNGPWDEDDMQCHNHCKSIKGYKGGYCAKGGFVCKCY
+PDB,"1ZFU,3E7R,3E7U"
+Mass,4401.894160000001
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1.1,IC50,patch,mammal,mouse,1000/16,25568977
+Kv1.2,IC50,patch,mammal,human,1000/4,25568977
+Kv1.3,IC50,patch,mammal,human,2800,25568977
+Kv7,IC50,patch,mammal,human,1000/3,25568977
+Kv11,IC50,patch,mammal,human,1000/4,25568977
+KCa2.3,IC50,patch,mammal,human,1000/6,25568977
+KCa3.1,IC50,patch,mammal,human,1000/7,25568977
+
+UniProt ID,I6S7G5
+Sequence,EVIAIDGLEICSNDQLHVTIYSIFSPLFDKPKLNYYFNCSCPGSIYISDVYPKYFNDIAHIEYRCKLT
+PDB,
+Mass,7903.000899999999
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,patch,mammal,rat,200/25,22595790
+
+UniProt ID,I6RU32
+Sequence,TDDESGNKCAKTKRRENVCRVCGNRSGNDEYYSECCESDYRYHRCLDLLRN
+PDB,2M35
+Mass,6026.5219
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,patch,mammal,rat,"44,2",22595790
+
+UniProt ID,I6RA66
+Sequence,AQNHYCKEHNCPPGKHCPKVPIACVYGPCCF
+PDB,
+Mass,3444.9991000000005
+Mode,blocker
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv1,IC50,patch,mammal,rat,570,22595790
+
+UniProt ID,A0A2L0ART2
+Sequence,EVIKKDTPYKKRKFPYKSECLKACATSFTGGDESRIQEGKPGFFKCTCYFTTG
+PDB,5X0S
+Mass,6017.858239999999
+Mode,undefined
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv2.1,IC50,patch,mammal,,>10000,29358396
+Kv4.1,IC50,patch,mammal,,>10000,29358396
+Kv7.1,IC50,patch,mammal,human,2800,29358396
+Kv7.2,IC50,patch,mammal,human,2700,29358396
+Kv7.4,IC50,patch,mammal,human,2500,29358396
+Kv7.5,IC50,patch,mammal,human,2700,29358396
+Kv11.1,IC50,patch,mammal,human,>10000,29358396
+KCa1.1,IC50,patch,mammal,human,>10000,29358396
+
+UniProt ID,A0A0R4I951
+Sequence,ADDKCEDSLRREIACTKCRDRVRTDDYFYECCTSESTFKKCQTMLHQ
+PDB,2MVT
+Mass,5624.210259999999
+Mode,modifier
+Target Channel,Data Type,Method Type,Test System,Species,"Value, nM",Ref. (PubMed/DOI)
+Kv7.1,IC50,patch,mammal,human,652.7,26307551
+

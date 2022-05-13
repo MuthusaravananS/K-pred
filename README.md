@@ -83,3 +83,11 @@ Scikit-learn plotting capabilities (i.e., functions start with “plot_” and c
 Warning
 
 Scikit-learn 0.20 was the last version to support Python 2.7 and Python 3.4. Scikit-learn 0.21 supported Python 3.5-3.7. Scikit-learn 0.22 supported Python 3.5-3.8. Scikit-learn 0.23 - 0.24 require Python 3.6 or newer. Scikit-learn 1.0 and later requires Python 3.7 or newer. 
+
+# Feature extraction #
+
+We recommend the users to use ifeature package for feature extraction.
+
+iFeature is a comprehensive Python-based toolkit for generating various numerical feature representation schemes from protein or peptide sequences. iFeature is capable of calculating and extracting a wide spectrum of 18 major sequence encoding schemes that encompass 53 different types of feature descriptors.
+
+Python Package: https://github.com/Superzchen/iFeature/

@@ -91,3 +91,5 @@ We recommend the users to use ifeature package for feature extraction.
 iFeature is a comprehensive Python-based toolkit for generating various numerical feature representation schemes from protein or peptide sequences. iFeature is capable of calculating and extracting a wide spectrum of 18 major sequence encoding schemes that encompass 53 different types of feature descriptors.
 
 Python Package: https://github.com/Superzchen/iFeature/
+
+Python scripts for execution were provided in Main branch of K-pred. 

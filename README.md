@@ -1,4 +1,7 @@
 # K-pred
+
+#  supplementary material for article titled "Identifying non-hemolytic peptides targeting voltage-gated potassium channels using sequence-based features and molecular dynamics simulations" #
+
 Ml framework for predicting non-hemolytic  peptides targeting Potassium ion channel 
 
 #  ML framework for prediction of non-hemolytic K+ channel active peptide ligands #
